@@ -1,0 +1,96 @@
+Terms Of Service
+Last updated: July 19, 2022
+
+Please read this User Agreement (“Agreement”) carefully before installing PiggyBox by Bright Data (“PiggyBox”). By installing PiggyBox, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to the terms of this Agreement, do not install PiggyBox.
+
+Description of PiggyBox
+PiggyBox is a hardware device that allows you to install a software component that occasionally uses your IP address to download web pages from well known Internet sites, in consideration of payments made to you. This is done in a way that does not interrupt your use of the Internet. The webpages are then sent to Bright Data’s customers, who use them to improve their databases, offer better products, services and pricing. PiggyBox includes hardware (boxed PCB board containing Software) and relevant accessories such as cables (Flash memory card, LAN cable, charger etc). 
+
+Payment. BrightData will pay you on a monthly basis via your chosen payment method. All payments are in US Dollars. You are responsible for any taxes if applicable. In order to be eligible for payment, the PiggyBox must be linked to a PiggyBox account and remain connected to the Internet 24/7 without interruption. If BrightData detects that the PiggyBox is not online for extended periods of time during a calendar month, it reserves the right to pay a reduced rate (or even not pay at all). For more information see: www.thepiggybox.net/FAQ).  
+
+You are solely responsible for the PiggyBox operational costs (electricity and Internet connection). 
+
+Equipment Return Policy. The PiggyBox and its provided accessories is the sole property of Bright Data. A PiggyBox that has not been connected and linked to an account within 30 days of delivery, must be connected or returned to Bright Data by registered mail.
+Equipment return address:
+Bright Data, att: PiggyBox, 106 W 32nd St, New York, NY 10001, United States.
+
+Replacement. In case of damage or faulty device, please notify us at: support@thepiggybox.net and we will do our best to replace or repair your box.
+
+ 
+
+Software Updates. Bright Data may, at its sole discretion, update the Software that is installed in the PiggyBox from time to time, if and when any updates are made available. 
+
+
+Privacy
+Bright Data is committed to protecting your privacy and safety rights while using PiggyBox.
+
+Bright Data does not collect any personal information from you other than as described herein and in PiggyBox Privacy Policy at: http://www.thepiggybox.net/privacy.
+
+You understand that through your use of the PiggyBox you consent to the collection and use (as set forth in the applicable privacy policy) of this information, including the transfer of this information within the United States and/or other countries for storage, processing and use by Bright Data and its affiliates.
+
+Restrictions
+PiggyBox is intended for use in your home, on a residential IP address/Internet connection only. Installing PiggyBox on a non-residential internet connection constitutes a violation of PiggyBox’s terms of use, and Bright Data will not pay for such usage.
+
+In consideration for continued use of the PiggyBox, you agree to adhere to the terms governing member conduct as written herein. You understand that your account and any credits you have earned can be terminated or suspended at the sole discretion of Bright Data if Bright Data reasonably believes you have violated the terms of member conduct in any way. You understand that PiggyBox and software embedded within PiggyBox may include security components that monitor the use of the PiggyBox. You may not attempt to override or circumvent any of the security measures, monitoring measures, or usage rules embedded into PiggyBox. Any unauthorized modification of any kind of the software provided by Bright Data, in whole or in part, is strictly prohibited.
+
+When using PiggyBox, you agree not to:
+
+a. cheat, defraud, game, mislead, misinform, trick, or deceive Bright Data in any way in order to accrue credits or for any other reason;
+
+b. attempt to fraudulently manipulate your accrual, retention, balance, or redemption of credits;
+
+c. impersonate any person or entity, including, but not limited to, a Bright Data official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+
+d. forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Bright Data Service;
+
+e. interfere with or disrupt PiggyBox or servers or networks connected to PiggyBox, or disobey any requirements, procedures, policies or regulations of networks connected to PiggyBox, including using any device, software or routine to bypass our robot exclusion headers;
+
+f. configure, reverse engineer, decompile, disassemble, hack, port, or otherwise attempt to discover the source code to the PiggyBox.
+
+g. intentionally or unintentionally violate any applicable local, state, national or international law;
+
+You acknowledge, consent and agree that Bright Data may access, preserve and disclose your account information if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce this Agreement; (iii) respond to claims that any content violates the rights of third parties; (iv) respond to your requests for customer service; or (v) protect the rights, property or personal safety of Bright Data, its users and the public.
+
+Modifications
+Bright Data reserves the right to modify, suspend or discontinue, temporarily or permanently, PiggyBox or any service to which it connects, with or without notice and without liability to you.
+
+Disclaimer of Warranties
+BRIGHT DATA IS PROVIDING THE HARDWARE, SOFTWARE AND USE OF THE PIGGYBOX ON “AS IS” BASIS AND IT EXPRESSLY DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS OR IMPLIED TO THE CONDITION, VALUE OR QUALITY OF PIGGYBOX, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, SUITABILITY OR FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SECURITY, ACCURACY, ABSENCE OF VIRUSES OR ANY DEFECT THEREIN, WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICE. BRIGHT DATA FURTHER EXPRESSLY DISCLAIMS ANY REPRESENTATIONS OR WARRANTIES THAT THE USE OF PiggyBox BE CONTINUOUS, UNINTERRUPTED OR ERROR-FREE, OR THAT ANY INFORMATION CONTAINED THEREIN WILL BE ACCURATE OR COMPLETE. 
+
+Limitation of Liability
+In no event will Bright Data be liable under this Agreement for any consequential, special, indirect or punitive damages or for any loss, profits or revenue (whether in contract, tort, negligence or any other legal theory) in any way relating to this Agreement (“Event”), even if Bright Data had been informed in advance of the possibility of such damages. Bright Data’s aggregated liability under this Agreement for any claim or damage or series of such is limited to US$50.
+
+Term and Termination
+This Agreement shall remain in effect until terminated by you or Bright Data.
+
+Bright Data may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice. This Agreement will terminate immediately, without prior notice from Bright Data, in the event that you fail to comply with any provision of this Agreement. You may terminate this Agreement by opting out of our network through the PiggyBox settings. You may also terminate this Agreement by deleting PiggyBox and all copies thereof from your device(s).
+
+Miscellaneous
+This Agreement constitutes the entire understanding between the parties with respect to the matters referred to herein.
+
+All notices or other communications hereunder shall be given by email to the email address provided by the parties as part of the registration to PiggyBox.
+This Agreement shall be governed by the laws of the State of Israel, excluding its conflict of law rules, and the courts of Tel-Aviv-Jaffa shall have exclusive jurisdiction over the parties.
+
+If any provision of this Agreement will be held by a court of competent jurisdiction to be contrary to any law, the remaining provisions will remain in full force and effect as if said provision never existed.
+
+No failure or delay on the part of any party hereto in exercising any right, power or remedy hereunder shall operate as a waiver thereof.
+
+Bright Data may, at any time, and at its sole discretion, modify this Agreement, with or without notice to the Client. Any such modification will be effective immediately upon public posting. Client’s continued use of the Systems and Service following any such modification constitutes acceptance of the modified Agreement.
+
+General
+FAQ
+About Us
+Support
+Blog
+Contact Us
+Legal
+Privacy Policy
+Terms Of Service
+HELP
+Support
+FAQ
+How it works
+
+
+
+*  This website is in no way affiliated with any external websites, companies, brands and logos mentioned.
