@@ -1,7 +1,7 @@
 TERMS OF USE
-Version 3.3
+Version 3.4
 
-IMPORTANT NOTICE: These Terms of Use have been updated as of 06 February, 2023, and supersede and replace all prior Terms & Conditions.
+IMPORTANT NOTICE: These Terms of Use have been updated as of 16 November, 2023, and supersede and replace all prior Terms & Conditions.
 
 NOTE: THIS WEBSITE AND THE SERVICES PROVIDED HEREIN DO NOT OFFER “REAL MONEY GAMBLING”. No actual money is required to play, and the Service is intended for entertainment purposes only.
 
@@ -62,7 +62,7 @@ Your eligibility for continued use of the Service is contingent on Your ongoing 
 
 3.3. You will monitor Your User Account and ensure that no child under the age of 18 can access the Service using Your User Account. You accept full responsibility for any unauthorized use of the Service by minors and You acknowledge that You are responsible for any use of the Service, including use of Your credit card or other payment instrument by minors;
 
-3.4. You do not reside in and will not access the Games or Service from the states of Washington, Idaho or Nevada (USA);
+3.4. You do not reside in and will not access the Games or Service from the states of Washington, Idaho, Michigan, Nevada (USA) or any jurisdiction outside the United States (the “Restricted Territories”);
 
 3.5. You participate in the Games strictly in Your personal capacity for recreational and entertainment purposes only;
 
@@ -75,7 +75,7 @@ Your eligibility for continued use of the Service is contingent on Your ongoing 
 4. Your User Account
 4.1. Only one User Account is permitted per person. In the event You open or try to open more than one User Account, all User Accounts You have opened or try to open may then be terminated or suspended any prizes or Virtual Coins balances may be voided.
 
-4.2. If You lose access to Your User Account , You must not register a new User Account. Rather You must contact customer support via the Contact Us form to have Your account status updated.
+4.2. If You lose access to Your User Account, You must not register a new User Account. Rather You must contact customer support via the Contact Us form to have Your account status updated.
 
 4.3. You are required to keep Your personal details up to date. If You change Your address, email, phone number or any other contact details or personal information please contact customer support. The name that You provide to us at registration must be match any identification You provide for Your User Account verification.
 
@@ -231,7 +231,7 @@ A physical or electronic signature of the owner of the right claimed to be infri
 A description of the copyrighted work or other right You claim has been infringed or violated;
 Information reasonably sufficient to locate the material in question on the Site;
 Your name, address, telephone number, e-mail address and all other information reasonably sufficient to permit us to contact You;
-A statement by You that You have a good faith belief that the disputed use is not authorized by the rightful owner, its agent or the law; and
+A statement by You that You have a good faith belief that the disputed use is not authorized by the rightful owner, its agent or the law;
 A statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the owner of the right claimed to be infringed or violated or are authorized to act on behalf of the owner.
 13.3. Before You file Your notification, please carefully consider whether or not the use of the copyrighted material at issue is protected by the Fair Use doctrine. If You file a notification when there is no infringing use, You could be liable for costs and attorneys’ fees.
 
@@ -340,24 +340,3 @@ Each party shall bear its own costs in the arbitration proceeding. If any portio
 19.1. GOVERNING LAW. The parties agree that this Agreement and related Services are governed by and shall be construed in accordance with the laws of the State of Delaware USA without regard to its principles of conflicts of law.
 
 19.2. Subject to the arbitration previsions contained in Section 16 the parties agree that any dispute, controversy, or claim arising out of or in connection with these Terms, or the breach, termination or invalidity of these Terms, will be submitted exclusively to the courts in Delaware, and You and we consent to the venue and personal jurisdiction of those courts. Notwithstanding the foregoing, any motion to compel arbitration or to enforce an arbitral award issued hereunder may be brought before any court of competent jurisdiction.
-
-
-Pulsz.com
-NO PURCHASE NECESSARY to enter Sweepstakes. SWEEPSTAKES ARE VOID WHERE PROHIBITED BY LAW. For detailed rules, see Sweepstakes Rules
-
-Copyright © 2023 Yellow Social Interactive Ltd. All rights reserved. Pulsz.com is owned and operated by Yellow Social Interactive Limited. The registered address of Yellow Social Interactive Limited, company number 119215, is 2 Irish Town, Gibraltar, GX11 1AA, Gibraltar. Email support (at) Pulsz.com or on www.ysi-group.com.
-
-US Payment Related Queries (24/7): +1 (424) 371-7304
-
-EU/UK Payment Related Queries (24/7): +358 75325 8864
-
-Please use the applicable number for your country of residence. Calls to the incorrect number for your country of residence may incur additional charges.
-
-TERMS OF USE
-PLAYER SAFETY
-PRIVACY
-SWEEPSTAKES RULES
-CONTACT US
-TikTok is not affiliated or associated with Pulsz.com; it does not sponsor or endorse this website. The website does not offer real money gaming and this website is intended for entertainment purposes only. NO PURCHASE is necessary to enjoy Pulsz.com.
-
-Build version: 1.0.0

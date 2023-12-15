@@ -1,9 +1,9 @@
 OFFICIAL PULSZ.COM SWEEPSTAKES RULES
 NO PURCHASE OR PAYMENT NECESSARY TO ENTER OR WIN. AN ENTRANT’S CHANCES OF WINNING WILL NOT INCREASE WITH ANY PURCHASE OR PAYMENT. VOID WHERE PROHIBITED BY LAW
 
-Version: 3.0
+Version: 3.3
 
-Date of last update: 13 October 2022
+Date of last update: 16 November 2023
 
 YOUR PARTICIPATION IN THE PULSZ.COM SWEEPSTAKES IS SUBJECT TO THESE OFFICIAL RULES, WHICH ARE PART OF THE PULSZ.COM TERMS OF USE. AS STATED IN THE PULSZ TERMS OF USE, ALL OF YOUR ACTIVITY THROUGH THIS SITE INCLUDING YOUR PARTICIPATION IN ANY SWEEPSTAKES IS SUBJECT TO THE TERMS OF USE - INCLUDING MANDATORY ARBITRATION PROVISIONS IN THE TERMS OF USE WHICH REQUIRE YOU TO ARBITRATE ANY CLAIMS AGAINST AS AN INDIVIDUAL AND NOT AS PART OF A CLASS ACTION. YOU MAY ACCESS THE TERMS OF USE HERE.
 
@@ -21,7 +21,7 @@ Yellow Social Interactive Limited operates the Site. The Site offers the chance 
 1.3 The Sweepstakes Period ("Sweepstakes Period") for each Sweepstakes starts at the beginning of each spin and ends at the conclusion of that spin. Each spin is a separate Sweepstakes.
 
 2. Eligibility to play Sweepstakes
-2.1. The Sweepstakes are open only to legal residents of the United States of America who are not resident in the State of Washington, the State of Idaho, the State of Nevada or where prohibited by law). You must create a User Account in order to enter a Sweepstakes. There is no charge or fee to create a User Account.
+2.1. The Sweepstakes are open only to legal residents of the United States of America who are not resident in the Restricted Territories. You must create a User Account in order to enter a Sweepstakes. There is no charge or fee to create a User Account.
 
 2.2. A person who participates in the Sweepstakes shall be referred to herein as a “Entrant.”
 
@@ -65,16 +65,19 @@ YSI-Sweepstakes
 Yellow Social Interactive Limited
 PO Box 9401
 Manchester
-New Hampshire 03108
+NH
+03108
 
 For each Sweepstakes Coin request, Entrants must obtain their unique Sweepstakes Request Code (see below) and mail in a hand-written Request Card in an envelope in compliance with all the requirements below:
-Handwrite the following on the envelope (i) Entrant’s return address on the front of the envelope; (ii) the URL www. Pulsz.com; (iii) the words: “Sweepstakes Coins”; (iv) the Sweepstakes Coins Request Code (details below) and
+Handwrite the following on the envelope (i) Entrant’s return address on the front of the envelope; (ii) the URL www. Pulsz.com; (iii) the words: “Sweepstakes Coins”; (iv) in the upper left hand corner of the envelope the Sweepstakes Coins Request Code (details below) and
 hand write in non-black ink (i.e., blue ink) the following on the Sweepstakes request card inserted inside the envelope:
 Handwritten Sweepstakes Coins Request Card - On the Card or similar, hand write the following on the Request Card inserted inside the envelope:
 Entrant’s full name;
 The URL - www.pulsz.com;
+Entrants return address;
+In the upper left hand corner of the Request Card, The unique Sweepstakes Coins Request Code;
 the email address registered to their User Account; and
-the following statement: "I would like to request free Sweepstakes Coins offered by Yellow Social Interactive Limited in order to enter the Sweepstakes offered on pulsz.com. I agree to be bound by the general Terms of Use and Sweepstakes Rules.”
+the following statement: "I would like to request free Sweepstakes Coins offered by Yellow Social Interactive Limited in order to enter the promotional Sweepstakes offered on pulsz.com. I agree to be bound by the general Terms of Use and Sweepstakes Rules.”
 A Sweepstakes Request Code is a unique combination of 13 digits that Entrants can obtain by following the steps outlined below. A Sweepstakes Request Code is unique to each Entrant’s Account and can only be used once on one Sweepstakes Request Card and cannot be shared or used by another Entrant. The Sweepstakes Request Code is necessary to allow for the efficient sorting and crediting of the Sweepstakes Coin Request Card. Any Entrant suspected by Sponsor to have shared a Sweepstakes Request Code with another person/people may, in the sole discretion of Sponsor, be disqualified and in addition may no longer be allowed to participate in the Sweepstakes. Obtain Your Sweepstakes Request Code by following these steps:
 sign into your Customer Account;
 click on the Sweepstakes Rules;
@@ -88,8 +91,8 @@ An Entrant must ensure that their handwriting is legible. If the Entrant’s han
 
 All Requests submitted by an Entrant must be postmarked from the same State as the Entrant’s verified address on their User Account. An Entrant must not electronically copy the Sweepstakes Coins Request Card or duplicate any Sweepstakes Coins Request Card.
 
-Requests that do not comply with the above will not be acknowledged or returned.
-Sweepstakes Coins requests must only be made by the Entrant. Requests made by any other individual or any entity, will be declared invalid and the Sweepstakes Coins will not be credited to the Entrant’s Account. Tampering with the entry process or the operation of the Sweepstakes, including but not limited to the use of any device to automate the Sweepstakes Coins request/entry process, is prohibited and any requests/entries deemed by Sponsor, at its sole discretion, to have been submitted in a non-conforming manner will be void. In the event a dispute regarding the identity of the individual who actuallysubmitted a request cannot be resolved to Sponsor’s satisfaction, the affected request/entry will be deemed invalid.
+Requests that do not comply with the above will not be acknowledged or returned.	
+Sweepstakes Coins requests must only be made by the Entrant. Requests made by any other individual or any entity, will be declared invalid and the Sweepstakes Coins will not be credited to the Entrant’s Account. Tampering with the entry process or the operation of the Sweepstakes, including but not limited to the use of any device to automate the Sweepstakes Coins request/entry process, is prohibited and any requests/entries deemed by Sponsor, at its sole discretion, to have been submitted in a non-conforming manner will be void. In the event a dispute regarding the identity of the individual who actually submitted a request cannot be resolved to Sponsor’s satisfaction, the affected request/entry will be deemed invalid.
 
 The number of Sweepstakes Coins an Entrant has will be displayed in their User Account on the Site. The amount of Sweepstakes Coins to be allocated to Entrants can be changed at any time by the Sponsor at its sole discretion.
 
@@ -109,7 +112,7 @@ Sponsor is not responsible for lost/incomplete/invalid/unintelligible or misdire
 
 5.3. A potential prize winner may be required to sign and return to Sponsor, an affidavit/declaration of eligibility, and liability/publicity release (except where prohibited) in-order to claim his/her prize (if applicable).
 
-5.4. If the potential winner cannot be contacted or fails to properly execute and return the affidavit/declaration of eligibility and liability/publicity release within the required time period (if applicable), fails to comply with these Sweepstakes Rules or if the prize or prize notification is returned as undeliverable, that potential winner forfeits the prize.
+5.4. If the potential winner cannot be contacted or fails to properly execute and return the affidavit/declaration of eligibility and liability/publicity release within the required time period (if applicable), fails to comply with these Sweepstakes Rules or if the prize or prize notification is 50 returned as undeliverable, that potential winner forfeits the prize.
 
 6. Prizes & Redemptions
 6.1. Only Redeemable Sweepstakes Coins May be Redeemed. Unless otherwise stated or required by Sponsor, Sweepstakes Coins acquired by Entrant by any method available under Section 3.2 must first be played through in an applicable Sweepstakes Game at least once before such Sweepstakes Coins may be counted toward the minimum number of Sweepstakes Coins required for a Prize Redemption request.
@@ -118,7 +121,7 @@ Sponsor is not responsible for lost/incomplete/invalid/unintelligible or misdire
 
 6.3. Cash Prize. Entrants whom accumulate and maintain 100 or more qualifying Sweepstakes Coins associated with their User Account may elect to accept a Cash Prize by following the redemption method steps on the Site while logged in. Such qualifying Users may claim a Cash Prize corresponding to $1.00 USD for each qualifying Sweepstakes Coin User chooses to redeem. Consequently, an Entrant’s User Account must have a minimum balance of at least 100 qualifying Sweepstakes Coins before any Cash Prize may be claimed by User. Sponsor may charge a fee for processing of redemptions, in Sponsor’s sole discretion. Such fee if applicable shall not exceed the reasonably estimated costs of the payment processing.
 
-6.4. Gift Card Prize. Entrants whom accumulate and maintain 25 or more qualifying Sweepstakes Coins associated with their User Account may elect to accept a Gift Card Prize by following the redemption method steps on the Site while logged in. Such qualifying Users may claim a Gift Card Prize corresponding to $1.00 USD for each qualifying Sweepstakes Coin User chooses to redeem. Consequently, an Entrant’s User Account must have a minimum balance of at least 50 qualifying Sweepstakes Coins before any Gift Card Prize may be claimed by User. Sponsor may charge a fee for processing of redemptions, in Sponsor’s sole discretion. Such fee if applicable shall not exceed the reasonably estimated costs of the payment processing.
+6.4. Gift Card Prize. Entrants whom accumulate and maintain 10 or more qualifying Sweepstakes Coins associated with their User Account may elect to accept a Gift Card Prize by following the redemption method steps on the Site while logged in. Such qualifying Users may claim a Gift Card Prize corresponding to $1.00 USD for each qualifying Sweepstakes Coin User chooses to redeem. Consequently, an Entrant’s User Account must have a minimum balance of at least 10 qualifying Sweepstakes Coins before any Gift Card Prize may be claimed by User. Sponsor may charge a fee for processing of redemptions, in Sponsor’s sole discretion. Such fee if applicable shall not exceed the reasonably estimated costs of the payment processing.
 
 6.5. Taxes. Sponsor will not be responsible for any federal or state taxes or fees associated with a prize redemption. Entrants are solely responsible for all applicable taxes and fees associated with prize receipt and/or redemption.
 
@@ -139,7 +142,7 @@ Sponsor is not responsible for lost/incomplete/invalid/unintelligible or misdire
 
 6.12. We reserve the right, in our sole discretion to limit an Entrant’s redemption of prizes to USD $10,000 per day.
 
-6.13. Sweepstakes Coins have no value whatsoever and only qualify a User to seek redemption of a Prize as set forth herein. If an Entrant requests closure of his/her Account without seeking eligible redemptions or the Account holds Sweepstakes Coins in a number less than the minimum (50) Sweepstakes Coins required for redemption of any Prize (as detailed above), User is not entitled to any Prize. All Sweepstakes Coins in a User Account at the time of termination for any reason are cancelled and forfeited.
+6.13. Sweepstakes Coins have no value whatsoever and only qualify a User to seek redemption of a Prize as set forth herein. If an Entrant requests closure of his/her Account without seeking eligible redemptions or the Account holds Sweepstakes Coins in a number less than the minimum (10) Sweepstakes Coins required for redemption of any Prize (as detailed above), User is not entitled to any Prize. All Sweepstakes Coins in a User Account at the time of termination for any reason are cancelled and forfeited.
 
 6.14. In the event one or more of an Entrant’s purchases on the Site is subject to a charge back, all pending redemptions will be cancelled, no further prize redemptions will be allowed, and User’s Account may be suspended or terminated in the sole discretion of Sponsor.
 
@@ -174,24 +177,3 @@ Only one (1) date may be requested per date. Requests seeking a Winners’ List 
 10.5 In the event of modifying the Sweepstakes, an Entrant’s continued enrollment and/or participation in the Sweepstakes constitutes acceptance of the modified terms.
 
 11. Questions? If you have any questions, you may contact us at Contact Us.
-
-
-Pulsz.com
-NO PURCHASE NECESSARY to enter Sweepstakes. SWEEPSTAKES ARE VOID WHERE PROHIBITED BY LAW. For detailed rules, see Sweepstakes Rules
-
-Copyright © 2022 Yellow Social Interactive Ltd. All rights reserved. Pulsz.com is owned and operated by Yellow Social Interactive Limited. The registered address of Yellow Social Interactive Limited, company number 119215, is 2 Irish Town, Gibraltar, GX11 1AA, Gibraltar. Email support (at) Pulsz.com or on www.ysi-group.com.
-
-US Payment Related Queries (24/7): +1 (424) 371-7304
-
-EU/UK Payment Related Queries (24/7): +358 75325 8864
-
-Please use the applicable number for your country of residence. Calls to the incorrect number for your country of residence may incur additional charges.
-
-TERMS OF USE
-RESPONSIBLE PLAY
-PRIVACY
-SWEEPSTAKES RULES
-CONTACT US
-TikTok is not affiliated or associated with Pulsz.com; it does not sponsor or endorse this website. The website does not offer real money gaming and this website is intended for entertainment purposes only. NO PURCHASE is necessary to enjoy Pulsz.com.
-
-Build version: 1.0.0
