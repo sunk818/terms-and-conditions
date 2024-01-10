@@ -4,17 +4,20 @@ TERMS & CONDITIONS
 Terms & Conditions of Use
 
 
-NO PURCHASE NECESSARY TO PLAY
 
-NO PURCHASE NECESSARY TO ENTER OR TO WIN
+THE GAMES AND PLATFORM DO NOT OFFER REAL MONEY GAMBLING, AND NO ACTUAL MONEY IS REQUIRED TO PLAY
+
+NO PURCHASE NECESSARY TO PLAY; NO PURCHASE NECESSARY TO ENTER OR TO WIN
 
 VOID WHERE PROHIBITED, OFFICIAL RULES AND RESPONSIBLE GAMING POLICY APPLY
 
+ONLY PLAYERS IN THE UNITED STATES (EXCLUDING THE STATES OF IDAHO, MICHIGAN AND WASHINGTON) AND CANADA (EXCLUDING ONTARIO QUEBEC) ARE ELIGIBLE TO ENTER THE SWEEPSTAKES. PLEASE REFER TO CLAUSE 1.1 OF THE CUSTOMER ELIGIBILITY REQUIREMENTS TO CHECK YOUR ELIGIBILITY.
+
 READ  SECTION 11 - BINDING ARBITRATION AND CLASS ACTION WAIVER CAREFULLY. IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT. PLEASE NOTE THE ADDRESS PROVIDED UNDER SECTION 11 IS DIFFERENT THAN THE BUSINESS ADDRESS FOR ALL OTHER CORRESPONDENCE.
 
-Version 3.5              Date Updated: December 27, 2023
+Version 3.6              Date Updated: January 10, 2024
 
-IMPORTANT NOTICE: These Terms and Conditions of Use have been updated since the last version published on August 16, 2023,  supersede and replace all prior agreements and versions of Terms and Conditions of Use.
+IMPORTANT NOTICE: These Terms and Conditions of Use have been updated since the last version published on December 27, 2023,  supersede and replace all prior agreements and versions of Terms and Conditions of Use.
 
  Social Gaming LLC and Social Gaming LTD operate our Website and Services in the Permitted Territory. The business address for SG LLC is 1201 North Market Street, Suite 111, Wilmington, DE 19801 United States. Except for the purposes stated and the address provided under Sections 11.5 and 17.10 of these Terms and Conditions, this SG LLC business address should be used for any other written correspondence related to the Website and Services. Any correspondence sent at any other address would not be received. These Terms and Conditions of Use apply to and are binding upon you if you use our Website. Please read and review these Terms and Conditions of Use (the “Agreement”) along with the Privacy Policy, Responsible Social Gaming Policy, Rules Regarding Fortune Coins, Customer Eligibility Requirements, and any other documents which form part of our documentation (the “Documentation”) before using our Website. By accessing or using our Website (as defined below), you acknowledge that you have read, understood, and accepted this Agreement and our Documentation. Your continued use of our Website signifies that you accept any updates made to this Agreement. If you do not agree with any part of this Agreement, you may not access or use our Website.
 
@@ -22,24 +25,24 @@ PLEASE NOTE THAT SECTION 11 OF THESE TERMS AND CONDITIONS INCLUDES A PROVISION W
 
 Definitions
 The following definitions apply to this Agreement:
-“Account” means your User account with us, which you sign up for at www.fortunecoins.com;
-“Content” means all information, Games, images, text, data, links, documents, software, Fortune Coins, Gold Coins, or other materials accessible and available to Users through our Website. All Content is subject to and protected under the intellectual property rights;
+“Account” means your User account with us, which you sign up for at  www.fortunecoins.com;
+“Content” means all information,Games, images, text, data, links, documents, software, Fortune Coins, Gold Coins, or other materials accessible and available to Users through our Website. All Content is subject to and protected under the intellectual property rights;
 “Covered Information” means information which allows a specific person to be contacted either physically or online, including, without limitation, first and last name, address, email address, phone number, or other identifier which allows a specific person to be contacted either physically or online;
 “Data Protection Officer” means the person designated by us to address data protection matters related to the Service;
 “Eligible Participant” means a person who has met the requirements in our Customer Eligibility Requirements document;
-"Excluded Territory” means a geographic location where Users are not permitted to access the Website including, but not limited to, the Province of Québec and Ontario, and the States of Washington and Idaho;
+"Excluded Territory” means a geographic location where Users are not permitted to access the Website including, but not limited to, the Province of Québec and Ontario, and the States of Washington, Michigan and Idaho;
 “Fortune Coin” means the in-game currency as defined in the Rules Regarding Fortune Coins;
 “Game(s)” means any game that we offer through our Website;
-“Gold Coin” means the in-game currency used to play Games that cannot be redeemed for Prizes;
+“Gold Coin” means the in-game currency used to play Games that cannot beredeemed for Prizes;
 “Restricted Jurisdictions” mean the States of New York and Florida where the maximum win for a single FC play within a game is restricted to less than 500,000 FC. For further details please check the Sweepstakes Rules; 
 “Participant” means a User who obtains Fortune Coins, participates in games using Fortune Coins, and/or redeems Fortune Coins;
-“Permitted Territory” means any territory in which we permit our services to be offered. We reserve the right to change our Permitted Territories at any time at our sole discretion. Information on Permitted Territories is set out in our Customer Eligibility Requirements document;
+“Permitted Territory” means any territory in which we permit our services to be offered. We reserve the right to change our Permitted Territories at any timeat our sole discretion. Information on Permitted Territories is set out in our Customer Eligibility Requirements document;
 “Prize(s)” means Fortune Coins which are eligible to be redeemed by a Participant;
 “Promotion(s)” means any of our promotions which allows Participants to obtain Fortune Coins, participate in Games using Fortune Coins, and/or redeem Fortune Coins;
 “Product” or “Products” mean fortunecoins.com, all Content and similar materials offered to the User as a part of our Service. Our Products are fully and solely owned by Blazesoft Ltd;
 “Rules Regarding Fortune Coins” means document setting out the rules regarding the collection, use, and redemption of Fortune Coins;
 “Service” means any of the services available through our Website or mobile applications;
-“Third Party Game(s)” means a Game or Games which are provided by a third party;
+“Third Party Game(s)” means a Game or Games whichare provided by a third party;
 “User/s” means a person who uses the Service;
 “Website” means our website available at https://www.fortunecoins.com and includes our Products and Service which is fully owned by Blazesoft Ltd;
 Eligibility
@@ -52,10 +55,10 @@ Not be one of Our employees, affiliates, subsidiaries, holding companies, advert
 Our Website is only for Users who reside and are located in a Permitted Territory. All Users are solely responsible for ascertaining whether it is legal in your jurisdiction to participate on our Website. Any User who knowingly accesses or attempts to access our Website from an Excluded Territory, including through the use or attempted use of a virtual private network (VPN) or other similar service, is in breach of this Agreement and may be subject to criminal prosecution.
 Accounts & Website Access
 In order to play the Games offered through our Website, Users must first open an Account.
-Opening an Account requires that you choose a unique Account name and password, along with any other information requested through our registration form. All details provided during Account registration must be accurate and kept up to date. You must not use an account name or password that contains language or words that contain hate speech, offensive or derogatory language of any kind, or infringe others’ intellectual property rights. We reserve the right to reject any account names or passwords.
+Opening an Account requires that you choose a unique Account name and password, along with any other information requested through our registration form. All details provided during Account registration must be accurate and kept up to date.You must not use an account name or password that contains language or words that contain hate speech, offensive or derogatory language of any kind, or infringe others’ intellectual property rights. We reserve the right to reject any account names or passwords.
 The name associated with your Account must match your legal name and identity. The name associated with your Account must also match the name on any credit card or form of payment used to deposit money into your Account.
 Users are only allowed to open and operate one Account. Opening, operating, attempting to open or attempting to operate multiple Accounts may lead to closure of all your Accounts and render any Gold Coins, Fortune Coins, or Prizes won by you void.
-Your Account is solely for your benefit. It is your responsibility to ensure that your Account details, including your login details, password and any payment information are only accessible by you. You agree to not disclose your Account login details, password and payment information to any third party other than us.  You are solely responsible for all purchases made from your Account (whether or not these purchases were authorized by you), any use of your Account by third parties, and any activity linked to your Account. For greater certainty, we will not reimburse you for any unauthorized purchases made from your Account, including unauthorized purchases made by someone who is not an Eligible Participant. If you think that any of your information tied to your Account has been compromised, please notify us immediately.
+Your Account is solely for your benefit. It is your responsibility to ensure that your Account details, including your login details, password and any payment information are only accessible by you. You agree to not disclose your Account login details, password and payment information to any third party other than us.  You are solely responsible for all purchases made from your Account (whether or not these purchases were authorized by you), any use of your Account by third parties, and any activity linked to your Account. For greater certainty, we will not reimburse you for anyunauthorized purchases made from your Account, including unauthorized purchases made by someone who is not an Eligible Participant.If you think that any of your information tied to your Account has been compromised, please notify us immediately.
 You are not permitted to transfer Gold Coins or Fortune Coins across Accounts, nor are you permitted to accept Gold Coins or Fortune Coins from other Accounts. You may not offer Gold Coins or Fortune Coins for sale, gift or transfer of any type in any manner.
 If no activity has taken place through an Account for eighteen (18) months, we reserve the right to deactivate said Account.
 If you have not completed all documentation required to redeem a Prize, and if we are not able to contact you in a reasonable time using the contact method provided by you, you may forfeit the Prize.
@@ -66,16 +69,16 @@ We, in our absolute sole discretion, reserve the right to limit (for example, by
 If any purchases are subject to a chargeback request, payment reversal, or if we suspect that fraudulent activity is occurring on Account, your Account will be immediately suspended and we may take the following steps: (i) close your Account; (ii) refuse to issue any redemptions of Fortune Coins in your account; (iii) automatically request the return of any Prize redemptions from the payment processor or bank; or (iv) report to governmental authorities or law enforcement.
 If, for any reason, your purchase of Gold Coins is subsequently declined, you must contact us immediately to resolve this matter. If you do not contact us immediately, we may block your account and refuse to redeem Fortune Coins.
 We may offer certain Eligible Participants early access to the Website or certain functionality on the Website (“Early Access”). During the Early Access period, certain features on the Website may be disabled. By participating in the Early Access period you understand and agree that you will have no recourse against us related to your experience on the Website during the Early Access period.
-You agree not to attempt to damage, deny service to, hack, crack, reverse-engineer, run scripts, access or attempt to access our APIs, alter parameters, engage in brute force attacks, or otherwise interfere (“Interfere”) with the Website. If you in any way Interfere with the Website, you agree to pay all damages incurred by us. We will cooperate with authorities in prosecuting anyone who Interferes with the Website or otherwise attempts to defraud us or any other parties through use of the Website. We reserve the right to deny any or all access to the Website, to any User for any reason, at any time, in our sole discretion. You agree that we may block your access at any time, and at our sole discretion we may disallow your continued use of the Website without notice. We reserve the right to take any action we may deem appropriate in our sole discretion with respect to violations or enforcement of the terms of this Agreement, and we expressly reserve all rights and remedies available to us at law or in equity.
+You agree not to attempt to damage, deny service to, hack, crack, reverse-engineer, run scripts, access or attempt to access our APIs, alter parameters, engage in brute force attacks, or otherwise interfere (“Interfere”) with the Website. If you in any way Interfere with the Website, you agree to pay all damagesincurred by us. We will cooperate with authorities in prosecuting anyone who Interferes with the Website or otherwise attempts to defraud us or any other parties through use of the Website. We reserve the right to deny any or all access to the Website, to any User for any reason, at any time, in our sole discretion. You agree that we may block your access at any time, and at our sole discretion we may disallow your continued use of the Website without notice. We reserve the right to take any action we may deem appropriate in our sole discretion with respect to violations or enforcement of the terms of this Agreement, and we expressly reserve all rights and remedies available to us at law or in equity.
 Playing Our Games
 It is your responsibility to make sure that you understand the rules of any Game offered on our Website before playing.
 The Rules Regarding Fortune Coins shall be construed and read into these Terms and Conditions and shall have full force and effect during your game session on our Website, including, but not limited to the Playthrough Requirements, consequences of irregular play, etc. You must review the Rules Regarding Fortune Coins carefully. Foreign exchange transaction fees incurred through the purchase of Gold Coins are your responsibility.
 The payment method that you choose to use to purchase any Gold Coins must be registered under the same first and last name used during registration of your Account.
 We reserve the right to declare your participation in any of our Games to be void in our sole discretion, for any or no reason, including, but not limited to, if we conclude there has been or may be, a human, system or technological error that has occurred or may occur on our Website.
 All decisions made by us as to the administration and operation of our Games are final and binding.
-Not all Gold Coin packages include Fortune Coins. It is your responsibility to review the terms of all Gold Coin packages. All purchases of Gold Coins are final.
-The purchase of Gold Coins is the purchase of a temporary license granted to You by Us in accordance with Section 10 below, and allows you to participate in our games and is not a deposit of funds which can be withdrawn. Funds used to purchase Gold Coins will not, and cannot, be refunded to you. Gold Coins do not have any real money value. No refunds will be given.
-NO PURCHASE NECESSARY to obtain Fortune Coins. You may receive 500 Fortune Coins as a free claimable reward. Please follow the instructions in section 3.2 of the Rules Regarding Fortune Coins document - https://www.fortunecoins.com/sweep-rules
+Not all Gold Coin packages include Fortune Coins. It is your responsibility to review the terms of all Gold Coin packages.All purchases of Gold Coins are final.
+The purchase of Gold Coins is the purchase of a temporary license granted to You by Us in accordance with Section10 below, and allows you to participate in our games and is not a deposit of funds which can be withdrawn. Funds used to purchase Gold Coins will not, and cannot, be refunded to you. Gold Coins do not have any real money value. No refunds will be given.
+NO PURCHASE NECESSARY to obtain Fortune Coins. You may receive 500 Fortune Coins as a free claimable reward. Please follow the instructions in section 3.2 of the Rules Regarding Fortune Coins document - https://www.fortunecoins.com/sweeps-rules
 Games may display the value of Fortune Coins with a decimal point and fractional digits. The fractional digits displayed on such Games represent the fractional value of one (1) Fortune Coin.
 New Games may be capped at a multiplier of 6000x of the play size for a single spin for  a period of fifteen (15) calendar days after the launch.
 Except for the Restricted Jurisdictions and Excluded Territories, the maximum total win shall be no more than FC7,000,000  within a period of 48 hours. We reserve the right, in our sole discretion, to take any action related to any win(s)  including voiding the amount of the win. Notwithstanding the above, the Rules Regarding Fortune Coins apply, and take precedence over this Section in case of a discrepancy between the Rules Regarding Fortune Coins and this Section.
@@ -87,10 +90,10 @@ Fortune Coins are only valid for 120 days from the date a User last logged into 
 Fortune Coins may be forfeited if an Account is closed for any reason, or at our absolute discretion.
 Prize Redemption
 All Prize redemptions are subject to this Agreement.
-For Canadian Users only, as a condition to redeeming a Prize, Users will be required to correctly answer within three (3) attempts, without the assistance of any kind, a time-limited, mathematical skill-testing question. If a User does not correctly answer the skill-testing question in accordance with the prescribed requirements, the User will not be able to redeem the requested Prize.
+For Canadian Users only, as a condition to redeeming a Prize, Users will be required to correctly answer within three (3) attempts, without the assistance of any kind, a time-limited, mathematical skill-testing question.If a User does not correctly answer the skill-testing question in accordance with the prescribed requirements, the User will not be able to redeem the requested Prize.
 Please read our Rules Regarding Fortune Coins where we explain the rules that must be met in order to become eligible to redeem Prizes.
 Promotions
-The Website may, from time to time, offer certain Promotions and these Promotions may have separate terms, conditions and rules that are Promotion specific and any Fortune Coins credited to a Participant’s Account must be used in adherence to such terms and conditions. Where play requirements for Fortune Coins are not specifically stipulated in Promotion specific rules then this Agreement will apply. Please refer to the Rules Regarding Fortune Coins for more details.
+The Websitemay, from time to time, offer certain Promotions and these Promotions may have separate terms, conditions and rules that are Promotion specific and any Fortune Coins credited to a Participant’s Account must be used in adherence to such terms and conditions. Whereplay requirements for Fortune Coins are not specifically stipulated in Promotion specific rules then this Agreement will apply. Please refer to the Rules Regarding Fortune Coins for more details.
 The Website may, from time to time, provide you with exclusive offers or packages (“Exclusive Offer(s)”) for your participation on our Website or for certain Promotions. Any Exclusive Offer communicated to you is solely for your benefit and shall only be redeemable by you. You shall not disclose any information regarding an Exclusive Offer to any third party for an improper purpose, which may include, but not be limited to, fraud or misrepresentation.  
 Prohibited Activities
 At any time, we reserve the right to (i) suspend or close your Account indefinitely or (ii) withhold all or part of the balance or recover from your Account or your bank account any Prizes, Gold Coins or Fortune Coins, if you have breached or we believe you have breached any provision of this Agreement (including the Rules Regarding Fortune Coins), or if we believe you have engaged, attempted to engage, or will engage in the future in any of the following activities:
@@ -107,7 +110,7 @@ You allow a third party to access your Account;
 You play a Game or use the Website in a coordinated manner with third parties or other User(s); or
 You make a false, misleading, derogatory or abusive statement about the Website on any public forum, including, but not limited to, Facebook, Twitter, Instagram, Reddit or any other social media platform.
 Financial Fraud
-You declare that the source of funds used by you for playing on the Website is not illegal and that you will not use the Website in any way as a money transfer system. You will not use the Website for any unlawful or fraudulent activity or prohibited transaction (including money laundering) under the laws of any jurisdiction that applies to you.
+You declare that the source of funds used by you forplaying on the Website is not illegal and that you will not use the Website in any way as a money transfer system. You will not use the Website for any unlawful or fraudulent activity or prohibited transaction (including money laundering) under the laws of any jurisdiction that applies to you.
 If we have reasonable suspicion that you may be engaging in or have engaged in fraudulent, unlawful or improper activity, including, without limitation, money laundering activities, or conduct otherwise in violation of this Agreement, your access to the Website will be terminated immediately and/or your Account terminated. If your Account is terminated or suspended in such circumstances, the Website is under no obligation to refund to you any balance that may be in your Account.  
 In addition to terminating your access to the Website and/or your Account, we reserve the right to prevent you from accessing any of the Website’s other services or accessing other services that are, or may be in the future, offered by us.
 In the case of a suspected fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment or dispute or fraud relating to ACH/e-checks), we reserve the right, in our sole discretion, to block a User’s Account, reverse any payouts made to a User, recover any funds paid to the User’s Account or bank account by us, and recover any losses incurred by us as a result of any fraudulent activity by the User. We may inform any relevant authorities or entities of any payment fraud or otherwise unlawful activity and may employ collection services to recover payments. Under no circumstances shall the Company be liable for any unauthorized use of credit or debit cards, irrespective of whether or not the credit or debit cards were reported stolen.
@@ -128,7 +131,7 @@ We are committed to the protection of your privacy and personal data. Any use of
 If we partner with a third party whereby they carry out certain functions for Us, we may be required to share your personal information with them. Your use of our Website and consent to this Agreement, gives your consent for us to share the necessary information with third party partners.
 License
 Through this Agreement, we are granting you a personal, limited, non-exclusive license to use our Website for your non-commercial use. To the fullest extent permitted by applicable law, this license granted to use our Website is non-transferable. The license may not be rented, leased, lent, sold, redistributed, or sublicensed in any way.
-The license rights granted to you herein are also subject to the limitations set forth below. Any use of the Product in violation of these limitations is a serious violation of these Agreements and subjects you to immediate termination of your license. You agree that you will not, under any circumstances:
+The license rights granted to you herein are also subject to the limitations set forth below. Any use of the Product in violation of these limitations is a serious violation oftheseAgreements and subjects you to immediate termination of your license. You agree that you will not, under any circumstances:
 Exploit or reverse engineer any Games or the Website, for any commercial purpose;
 Use any unauthorized third-party software that intercepts or collects information from or through our Website;
 Violate any applicable law or regulation in connection with your use of our Website
@@ -167,7 +170,7 @@ Jurisdiction and Applicable Law
 All issues and questions concerning the construction, validity, interpretation and enforceability of this Agreement, or the right and obligations of Users, are governed by, and construed in accordance with, the laws of Nova Scotia, without giving effect to any choice of law or conflict of law rules.
 
 Intellectual Property Rights
-All Content and Products available on the Website is the sole and exclusive property of Blazesoft Ltd. Any applicable third-party content is duly licensed to Blazesoft Ltd. Blazesoft Ltd. owns the sole title, sole ownership and legal interest in the trademarks, trade names, logos, patents, patent applications, web domains related to the Content and Products, inventive steps and ideas, trade secrets, copyrights, whether registered or not, in all jurisdictions where the Content and Products are available for the Users.
+All Content and Products available on the Website is the sole and exclusive property of Blazesoft Ltd. Any applicable third-party content is duly licensed to Blazesoft Ltd. Blazesoft Ltd. owns the sole title, sole ownership and legal interest in the trademarks,trade names, logos, patents, patent applications, web domains related to the Content and Products, inventive steps and ideas, trade secrets, copyrights, whether registered or not, in all jurisdictions where the Content and Products are available for the Users.
 We expect that all of our Users, Affiliates and third parties to respect our intellectual property rights.
 All Content and Products used by us in delivering our Website to you including, but not limited to, the software, images, graphics, photographs, animations, videos, music, audio and text are owned by us.
 Your use of our Website does not grant you any rights in our copyright materials.
@@ -177,23 +180,23 @@ Our Website may enable or require access to other third party materials, games, 
 By using our Website, you agree to all Third Party Materials, which may include terms & conditions and privacy policies set out by Third Parties.
 Under no circumstances are we responsible for (i) any issues you have with Third Party Materials, including Third Party Games or (ii) any actions you take on Third Party websites. If you have an issue with a specific game, we strongly recommend contacting the provider of the Third Party Games directly to resolve your issue.  
 Indemnification
-You agree to indemnify, defend and hold harmless Us and Our affiliates, and Our respective officers, directors, owners, shareholders, agents, employees, contractors, suppliers, advertisers, promoters, partners and their agents, information providers and licensors (“Indemnified Party’’ or collectively “Indemnified Parties”) from and against any claims, liability, losses, costs and expenses incurred by an Indemnified Party in connection with:
+You agree to indemnify, defend and hold harmless Us and Our affiliates, and Our respective officers, directors, owners, shareholders,agents, employees, contractors, suppliers, advertisers, promoters, partners and their agents,information providers and licensors (“Indemnified Party’’ or collectively “Indemnified Parties”) from and against any claims, liability, losses, costs and expenses incurred by an Indemnified Party in connection with:
 Any breach of this Agreement;
 Your use of our Website;
 Any payments made to your account;
 Any decision made by you to opt-out, Self-Exclude, or otherwise pause or close your Account;
 Any withdrawals made from your Account; and
-Any Prize redemption including Prize redemption requests.
+AnyPrize redemption including Prize redemption requests.
 Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WHATEVER WILL WE OR OUR AFFILIATES, OR OUR RESPECTIVE PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS, SUBCONTRACTORS AND SUPPLIERS, BE RESPONSIBLE OR LIABLE TO YOU OR TO ANY OTHER ENTITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, UNDER ANY LEGAL THEORY, WHETHER CONTRACT, TORT OR OTHERWISE, FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING ANY LOST PROFITS AND LOST BUSINESS OPPORTUNITIES, BUSINESS INTERRUPTION, LOST REVENUE, INCOME, GOODWILL, USE OF DATA OR OTHER INTANGIBLE LOSSES, IN EACH CASE THAT RESULT FROM OR RELATE IN ANY MANNER TO YOUR PARTICIPATION OR ANY OTHER ACT OR OMISSION BY US.
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL WE, OUR AFFILIATES, AND OUR RESPECTIVE PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS, SUBCONTRACTORS OR SUPPLIERS, BE LIABLE TO YOU FOR MORE THAN THE AMOUNT YOU HAVE PAID US IN THE THIRTY (30) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM. YOU ACKNOWLEDGE AND AGREE THAT IF YOU HAVE NOT PAID US ANY AMOUNTS IN THE THIRTY (30) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM, YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH US IS TO STOP USING THE PLATFORM AND TO CLOSE YOUR CUSTOMER ACCOUNT.
 
 WE SHALL NOT BE LIABLE FOR ANY ATTEMPTS BY YOU TO USE OUR WEBSITE BY METHODS, MEANS OR WAYS NOT INTENDED BY US. WE ARE NOT REQUIRED TO PROVIDE REDUNDANT OR BACK-UP NETWORKS AND/OR SYSTEMS.
-NOTHING IN THESE AGREEMENTS WILL OPERATE SO AS TO EXCLUDE ANY LIABILITY WE MAY HAVE IN RESPECT OF EITHER FRAUD, DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE
+NOTHING IN THESE AGREEMENTS WILL OPERATE SO AS TO EXCLUDE ANY LIABILITY WE MAY HAVE IN RESPECT OF EITHER FRAUD, DEATH OR PERSONAL INJURY CAUSED BY OURNEGLIGENCE
 IF ANY PART OF THIS AGREEMENT IS DEEMED UNLAWFUL, VOID OR FOR ANY REASON UNENFORCEABLE, THEN THAT PART SHALL BE DEEMED SEVERABLE FROM THE REST OF THE AGREEMENTS AND SHALL NOT AFFECT THE VALIDITY AND ENFORCEABILITY OF THE REMAINING PROVISIONS.
 General
 We may amend, alter, delete, or add to this Agreement at any time without notice to you.
-Any changes made to this Agreement shall take effect immediately upon their publishing to the Website and your continued access or use of the Website. You can check the “Date Updated” date at the top of these Terms of Use to determine the date of the last revision.
+Any changes made to this Agreement shall take effect immediately upon their publishing to the Website and your continued access or use of the Website. You can check the“Date Updated” date at the top of these Terms of Use to determine the date of the last revision.
 You agree to review this Agreement regularly to stay current with changes that have been made.
 Whole Agreement
 
@@ -234,6 +237,8 @@ To be valid, a Notice must be in writing and must follow the instructions above.
 
 
 Change Log
+
+2024 01 10: We added the State of Michigan under Section 1.1.6 “Excluded Territory”.
 
 2023 12 27: We added the business address for Social Gaming LLC, for all correspondence while retaining the address to be used as stated under Sections 11.5 and 17.10 of these Terms.
 
