@@ -1,0 +1,208 @@
+LUCKYLAND SLOTS PRIVACY POLICY
+Version : 3.0
+Date updated: February 14, 2024
+
+At VGW, we are committed to maintaining transparency and protecting the privacy of our customers.
+VGW operates the Luckyland Slots website and any subdomains, subpages, successor sites or any application accessible via our website (the “Website”).
+At VGW, we are committed to protecting and respecting your privacy, and maintaining the confidence and trust of our customers. This Privacy Policy (“Privacy Policy”) explains how VGW collects, uses, maintains and shares information collected from the Website.
+We are committed to complying with obligations under all applicable North American data privacy laws, including, but not limited to, the California Consumer Privacy Act (“CCPA”) (including the California Privacy Rights Act (“CPRA”), and the Virginia Consumer Data Protection Act).
+
+1. Definitions
+2. Data Controller
+3. Type of Information We Collect
+4. How we collect your information
+5. Personal Information Collected via Technology
+6. How We Use Collected Information
+7. How We Share Information
+8. Your Privacy Rights
+9. How We Protect Your Information
+10. How Long Will We Retain Your Information
+11. Sharing Your Information
+12. Minors
+12. Changes to this Privacy Policy
+13. Contacting Us
+1. Definitions
+Aggregate Information means information about groups or categories of customers, which does not identify and cannot reasonably be used to identify an individual customer.
+Anonymous Information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual. When anonymous information is directly or indirectly associated with personal information, the resulting information is also treated as Personal Information.
+Personal Information means any information about you, whether it is true or not, that can reasonably be used to identify you, or otherwise make you identifiable.
+VGW (including “VGW Holdings Limited”, “VGW Group”, “We”,“Us” or “Our”) means VGW Holdings Limited and any applicable subsidiaries, including VGW Malta Limited, VGW GP Limited, VGW Games Limited, VGW Administration Malta Limited, VGW US, Inc., VGW Luckyland Inc., VGW Holdings US Inc., and VGW Canada Inc., that forms the VGW Group and may collect, use, maintain and disclose information collected from the Website as applies to this Privacy Policy.
+2. Data Controller
+2.1 The business responsible for managing data collected through your use of the Website (including any data you may provide through the Website when you purchase a product or service or take part in a promotion or competition) is VGW US Inc. having its registered address at 2140 S Dupont Highway, Camden, Kent 19934 USA.
+3. Type of Information We Collect
+3.1 We collect three types of information (as defined in section 1, Definitions):
+Personal Information
+Anonymous Information
+Aggregated Information
+Any other information that we receive and identify as your Personal Information will be treated as Personal Information by VGW.
+
+3.2 The types of Information we may process depend on the business context and the purposes for which it was collected. It may include:
+
+Contact Details, such as your first name and surname, email address, residential address, and mobile or other phone numbers.
+
+Personal Information, such as gender, age, age range or your image; and account login details, including your username, password and pictures associated with your profile.
+
+Transaction Information you provide when you make a purchase, request a redemption or otherwise use the Website, such as your postal address, phone number and payment or redemption information including banking and financial details, credit card details and bank account statements (we do not store your full card details).
+
+Geolocation Information, including approximate location information provided by a mobile or other device interacting with the Website, or associated with your IP address, where we are permitted by law to process this information.
+
+Usage Data, which may include activity, technical and device information about your use of the Website, such as the content you view, the time and duration of your visit on our Website, how often you use our services, how you first heard about our Website, your preferences and information about your interaction with the content offered through our Website, your hardware model, device type, other unique device identifiers, operating system version, browser type and IP address.
+
+Sensitive Information, which may include government issued identity (including drivers licenses, passport and social security numbers), geolocation and financial information to comply with our business, legal and regulatory purposes.
+
+Information we obtain from a third party, such as a site or platform provider (including Facebook and Google), about your use of or interest in our services.
+
+4. How we collect your information
+4.1 Information you provide to us directly
+This includes information collected when you visit our website, register, purchase products, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Website.
+
+We collect information from you by telephone, video or in correspondence (including email, live chat, mail, text message or social media). All telephone or video calls between you and VGW Group representatives may be recorded for training, quality control and compliance purposes and by continuing with any such call you consent to it being recorded.
+
+4.2 Information we collect as you use our services
+We also collect information about your use of our products and services through a variety of technologies that are present when you visit our websites, including the Website, or use our applications on third party sites or platforms (whether or not you are logged in or registered) including cookies, flash cookies, application programming interfaces (“API”), pixels and tags (further information in set out in section 5, Personal Information Collected via Technology. Analytics tools are also used by us to collect information, including when you visit our Website or use our applications or services on third party sites or platforms.
+
+4.3 Information we receive from third party service providers
+Finally, we also use trusted sources to update or supplement the information you have provided, or we have collected, including in order to verify or validate information (for example, postal address, documentation and names).
+
+5. Personal Data Collected via Technology
+5.1 We and our service providers use industry standard identifiers, such as cookies or other similar technologies, to provide an enhanced experience.
+
+5.2 These technologies allow us to record certain pieces of information whenever you visit or interact with the Website. Information may include, in part, browser type, operating system, device type, an estimate of your geographic location associated with your IP address, the location of your mobile device, the page served, the time, referring URLs and other information normally transmitted in HTTP requests.
+
+5.3 This statistical data provides us with information about your use of the services, such as general engagement with a page, the type of content on that page and how long you stay on that page. Usage information is generally non-identifying but if VGW associates it with you as a specific and identifiable person, VGW will treat it as Personal Information.
+
+5.4 The following are examples of these types of technologies:
+APIs. APIs work by allowing different types of software to communicate with each other. They make life a lot easier for programmers and provide a better experience for end users.
+Cookies. These are small text files placed in your device browsers to store your preferences. Cookies help us to better understand your behavior including for security and fraud prevention purposes, they tell us which websites you have visited and facilitate advertisements and web searches. When you first access our Website you will be given the option to enable or disable cookies through our cookie banner. You can revisit your choice at any time by going to the cookie tool bar in your browser. Most browsers allow you to block and delete cookies. However, if you do that, certain features of the service may not be available or work properly if all cookies are disabled.
+Event tagging. Event tagging (including Facebook App Events) allows us to track actions that occur on the Luckyland Slots Website such as application installs and purchase events. By tracking these events we can view analytics, measure ad performance, and build audiences for ad targeting.
+Mobile device identifiers. When you download or access our products via a mobile device, we and our service providers may receive information about your geolocation (based on your IP address) and your mobile device including advertising identifiers, hardware type, your operating system and your in-game activity. We may share the advertising identifier associated with your mobile device or tablet (such as the Apple IDFA and Google Advertising ID) with advertisers. We and our service providers may use this information to provide you with tailored advertising and other content. When you download or access our games through your mobile device, we may ask permission to track your activity. If you initially consent to tracking, you may later disable that permission in your device settings or withdraw your consent. In addition, if you do not want to receive third-party tailored advertisements, you may opt-out by adjusting the ad tracking settings on your device (such as turning on “Limit Ad Tracking”) and reset the advertising identifier on your device. Further, depending on your platform provider (such as Apple or Google), you may be able to download apps such as the Digital Advertising Alliance’s “AppChoices” app to provide you with control regarding the collection and use of your cross-app data for tailored advertising. For more information on the advertising choice mechanisms, visit the NAI’s Mobile Choices page here.
+Pixel tags/web beacons. A pixel tag (also known as a web beacon) is a piece of code embedded on the Website that collects information about your engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. We may also include web beacons in e-mails to understand whether messages have been opened, acted on or forwarded.
+
+5.5 For further information regarding these technologies, and how to exercise your rights, please refer to our Cookie Notice
+
+6. How We Use Collected Information
+6.1 We use the information collected to operate our Website and to provide our products and services, to facilitate your financial transactions, to respond to your questions and to fulfill all applicable regulatory requirements such as anti-fraud checks and other checks required by applicable anti-money laundering and other legislation.
+
+6.2 There may be occasions where we collect and use your information for the following specific purposes:
+To provide and manage the services you request - This includes, for example, processing your registration, setting up and looking after your account, including checks made to guard against fraud.
+To improve customer service and our services - Information you provide helps us respond to your customer service requests more efficiently; we may use feedback you provide to improve our products and services.
+To process payments - We may use the information you provide when placing an order to service that order (including to satisfy our customer due diligence requirements and to establish the source of funds where necessary).
+To personalize user experience - We may use information which has been aggregated to understand how our users as a group use the services and resources provided on our Luckyland Slots Website.
+To contact you about our services including marketing - We may contact you by email, live chat, telephone, text message, mail or social media for communications related to your use of our services and products, including in connection with your accounts, offers and information about our products and services, promotions and competitions you choose to enter, online surveys, new features that you are entitled to access, and other important information. Please see section 8, Your Privacy Rights, for your opt out rights.
+To send important notices to you - From time to time, we may send important notices to you, such as communications about purchases you have made, or legal notices regarding the changes to our Terms of Service or other policies. This information is important to your interactions with us and you acknowledge that you may not opt-out of receiving these communications.
+To comply with our legal and regulatory obligations - We may use information we collect about you to assess your social gameplay activity for responsible social gameplay purposes, taxation purposes, to comply with fraud and anti-money laundering laws (including to establish the source of funds where a transaction is involved) or to comply with any other legal or regulatory obligations (including the detection, investigation and prevention of activity that violates our Terms of Service or that may be illegal).
+To offer alternative dispute resolution services - We may provide information we collect about you to our service provider for the specific purpose of resolving any disputes that have not been satisfactorily resolved through our internal processes.
+To conduct market research and analysis – We may use information we collect about you to analyze how you interact with our products and services, to monitor and analyze usage and activity trends, and for other research, analytical and statistical purposes.
+
+6.3 Behavioural Advertising
+We may partner with a third-party service provider to: (a) display advertising on our Website or any application accessible via our Website; and (b) manage our advertising on other websites (for example, using custom audiences on Facebook) to help us provide more relevant advertisements. Under some US state privacy laws, consumers have the right to opt out of the sharing or sale of their Personal Information with third parties for targeted advertising (also known as behavioral advertising). “Behavioral advertising” in this context means advertisements that may be sent to you based on your data through the use of technologies such as cookies to gather information about your activities on our Website and other websites.
+
+6.4 If you wish to opt-out of behavioral advertising click here Please note you will continue to receive generic advertisements.
+
+7. How we Share Information
+7.1 The following are examples of these types of technologies:
+Name and contact data;
+Demographic data;
+Subscription and licensing data; and
+interactions.
+
+7.2 The above data may be shared with third parties that perform online advertising services for VGW for the purposes of delivering tailored advertising based on your interests.
+
+7.3 If you do not want to receive third-party tailored ads, you may opt-out by adjusting the ad tracking settings on your device (such as turning on “Limit Ad Tracking”). You can also reset the advertising identifier (like an IDFA) from your device’s settings, which will prevent continued use of existing behavioral data tied to the previous advertising identifier. Depending on your platform provider (such as Apple or Google), you may be able to download apps such as the Digital Advertising Alliance’s “AppChoices” app, that offers to provide you with control regarding the collection and use of cross-app data for tailored advertising. These opt-out tools are provided by third parties, not VGW. VGW does not control or operate these tools or the choices that advertisers and others provide through these tools.
+
+8. Your Privacy Rights
+8.1 We appreciate that by law and subject to certain conditions you have a number of rights concerning the Personal Information we hold about you. Further information and advice about your rights can be obtained from the data protection regulator in your country or state.
+
+8.2 Your rights may include, but are not limited to, the following:
+The right to access - You have the right to access your Personal Information we process, and certain other information (similar to that provided in this Privacy Policy).
+The right to rectification or correction - You are entitled to have your Personal Information corrected if it is inaccurate or incomplete. You can request that we rectify any errors in information that we hold about you.
+The right to be informed - You have the right to know how we collect and use your information and your rights regarding your Personal Information.
+The right to object to processing - You have the right to object to certain types of processing, including processing for direct marketing and advertising.
+The right to delete - You have the right to request the deletion or removal of your Personal Information subject to certain exceptions.
+The right to data portability - With certain exceptions, you have the right to obtain and reuse your information in an easily understandable format.
+The right to opt-out of sharing - You have the right to opt out of the sharing of your Personal Information to a third party for cross-context behavioral advertising.
+The right to complain to a supervisory authority - You also have the right to complain to the relevant data protection supervisory authority about VGW’s processing of your Personal Information. Please complete the Luckyland Slots Customer Request Form here or alternatively, email dataprivacy@vgw.co.
+
+8.3 Additional Rights
+
+Residents of California have the right to: (1) request to know more about the categories and specific pieces of Personal Information we collect, use and disclose; (2) request deletion of your Personal Information; (3) opt out of sale of your Personal Information (if any); (4) not be discriminated against for exercising these rights; and (5) limit use of your sensitive Personal Information if we use such Personal Information to infer characteristics about you. We do not currently use sensitive Personal Information for such purposes. In some states, we may be required to obtain your consent before collecting your sensitive Personal Information.
+Under some US state privacy laws, consumers have the right to opt out of the sharing or sale of their Personal Information with third parties for targeted advertising (behavioral advertising). Please refer to section 6.4 above for more details.
+If you want to stop receiving promotional communications from us, you can click on the "unsubscribe" link in any promotional email received from us.
+
+8.4 How to Exercise Your Rights
+
+You can exercise any of these rights by completing the Luckyland Slots Customer Request Form here or alternatively, email dataprivacy@vgw.co. We will not discriminate against you (e.g., through denying products and services or providing a different level or quality of goods or services) for exercising any of the rights afforded to you.
+You may opt-out of receiving commercial messages from us by following the instructions contained in those messages or by contacting Customer Support via email at support@luckylandslots.com. In the event of your objection to processing for the purpose of direct advertising, we will no longer process your Personal Information for these purposes.
+If you would like to use an agent authorized in accordance with applicable law to exercise your rights, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to exercise those rights on your behalf.
+
+8.5 Cookies
+
+You can change your preferences with regards to cookies and other trackers at any time by clicking on the Your Privacy Choices link at the bottom of our Website.
+
+9. How We Protect Your Information
+9.1 We use physical, electronic and operational safeguards to protect the information we gather. We follow appropriate practices for collecting, storing, and handling data, along with security measures to prevent unauthorized access, changes, exposure, or loss of your Personal Information. We regularly review and update our security measures to stay current with technology advancements.
+
+9.2 If we believe that a notifiable data breach has occurred, we will comply with the legislative requirements to notify you of the data breach and any steps taken by VGW to contain and investigate the data breach.
+
+10. How Long Will We Retain Your Information
+10.1 We will retain the categories of Personal Information listed in section 3 above for various periods of time to reasonably fulfill the purposes specified in this Privacy Policy which will be determined based on (1) the length of time we need to retain the information to achieve the business or commercial purpose for which it was obtained; (2) any legal, accounting, reporting or regulatory requirements applicable to such information; (3) internal operational needs; and (4) any need for the information based on any actual or anticipated investigation, dispute or litigation.
+
+10.2 We will take reasonable steps to destroy or permanently de-identify any Personal Information where:
+we no longer need the Personal Information for any purpose for which the Personal Information was collected; and
+we are not required by law, a regulator or a court/tribunal order, to retain the Personal Information.
+
+11. Sharing Your Information
+11.1 We share your Personal Information with the following categories of third parties:
+Affiliates – other companies in the VGW Group;
+Service providers – other companies who provide services to you on our behalf; and
+Third parties that interact with us in connection with the services we perform.
+
+11.2 If we share your Personal Information with a third party, we will take reasonable steps to ensure your information is protected to the same standards as we protect our own and prohibit them from using your Personal Information for purposes other than those requested by us or required by law.
+
+11.3 With Third Parties
+We only share information with third parties in limited circumstances including the following:
+when you allow us to share your information with third parties;
+when providing you with products and services and notifying you about important changes or developments to the features and operation of those products and services;
+with our service providers who help us offer our services, such as companies that assist us with things like technology, storing and combining data, processing payments and redemptions, or providing relevant marketing and advertising for our products and services. Where service providers use Personal Information for their own purposes, where permitted by law, such service providers will act as the business who determines, individually or jointly with others, the purposes and means of processing that data;
+in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, when ordered to do so by any regulatory body and/or under any legal provision contained in the governing law of a particular jurisdiction;
+when instructing and authorizing the financial institution with which a user’s account is held to disclose any information as may be requested by a regulator in respect of the user’s account;
+to enforce our Terms of Service set out on our Website, to protect our rights and property and the rights and property of our customers and third parties, to detect fraud or other illegal activities, and to comply with law or legal processes;
+when performing web analytics to analyze traffic and player activity; and
+to perform customer due diligence including ID verification.
+
+Google
+
+11.4 We make available an API provided by Google Maps in order to allow you to have access to an address auto-complete function on our Luckyland Slots Website. The use of Google Maps for this purpose by you is subject to the then current Google Maps/Google Earth Additional Terms of Service and Google Privacy Policy.
+
+11.5 We make available an API provided by Google to allow you to use your Google Account to sign into the Website. You can manage this connection at any time via your Google Account. More information can be found here.
+
+Google Analytics 4.
+
+11.6 VGW uses Google Analytics to collect data (cookies, IP addresses, pixels and tags). We use this data to understand how you use our Website so we can improve its functionality and performance, as well as for marketing and internal business purposes.
+
+11.7 With your consent, Google Analytics will process and collect this data. You can find out more about Google's use of information by visiting here and you can review Google's Privacy Policy.
+
+11.8 You can opt out of Google’s collection and processing of data by going here.
+
+Other Third Parties
+
+11.9 We may ask you to provide your image to assist us in verifying your identity. We do this by using facial recognition technology provided by service providers (including, but not limited to, Jumio Corporation) that determines whether the photo you take matches the photo in your identification document. These service providers collect information from your image capture on our behalf and may share this confirmation information with us. We do not collect or store biometric information. Our third-party service provider stores your biometric data in accordance with their privacy policy. They will store it until they have achieved the original purpose for collecting it, or until 3 years after your last interaction with us, whichever happens first, provided we have no other legal obligation to retain such information for any longer period.
+
+11.10 We may also share generic aggregated demographic information not linked to any personal identification information regarding visitors to and users of our Website with our service providers, affiliates and advertisers for the purposes outlined above.
+
+11.11 Transfer of data
+The VGW Group operates in several international jurisdictions and Personal Information we collect may be transferred to, and stored and processed by, affiliates within the VGW Group or service providers in the European Union, the United States, Canada, Australia, the Philippines or any other country in which we or our service providers maintain facilities. We will ensure that transfers of Personal Information to any country or organization are subject to appropriate safeguards.
+
+12. Minors
+Protecting the privacy of children is especially important to VGW. For that reason, we never knowingly collect or maintain information from individuals under the age of 18, and no part of our Website is structured to attract anyone under the age of 18. VGW does not offer or direct any of its services or products, including Luckyland Slots, to individuals under the age of 18.
+
+13. Changes to this Privacy Policy
+13.1 This Privacy Policy may be updated from time to time to reflect changes in the way we work or the way our work is regulated. We will notify you of material changes and, where required by law, will obtain your consent. Notice may consist of posting such changes on our Website or by other means in accordance with applicable laws.
+
+13.2 Any changes to the Privacy Policy will become effective when the updated policy is posted on our Website.
+
+13.3 We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the Personal Information we collect.
+
+13.4 This Privacy Policy, in effect as of the last modified date stated below, supersedes and replaces any and all Privacy Policies previously in effect.
+
+14. Contacting Us
+If you have specific questions regarding your Personal Information, how we process or use it, or to exercise your rights, please contact our Privacy Team directly by email at dataprivacy@vgw.co or alternatively please complete the Customer Request Form here.
