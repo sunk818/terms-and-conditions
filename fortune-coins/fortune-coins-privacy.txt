@@ -1,0 +1,204 @@
+Logo
+GO BACK
+PRIVACY POLICY
+Privacy Policy
+
+Version 3.0
+
+Date Updated: December 20, 2022
+
+Scope of Privacy Policy
+
+Our Privacy Policy sets out Social Gaming LLC's and Social Gaming LTD's policies regarding the information we collect and how it is used, shared, and securely stored. It applies to all access to our Website, e.g., whether you are playing on a PC, a mobile device, or through a third-party application (e.g., Facebook). Please read this Privacy Policy closely before using any of our products. These Rules are to be read in conjunction with our Terms and Conditions, Rules Regarding Fortune Coins, Responsible Social Gaming Policy, Customer Acceptance Policy, and Tournament Rules (the “Documentation”). Any terms defined in the Documentation and not defined in the Privacy Policy have the same meaning as set out in the Documentation. If you have any questions, please contact us at support@fortunecoins.com.
+
+Definitions
+The following definitions apply to this Privacy Policy:
+“Account” means your user account with us, which you sign up for at www.fortunecoins.com;
+“Covered Information” means information which allows a specific person to be contacted either physically or online, including, without limitation, first and last name, address, email address, phone number, and an identifier which allows a specific person to be contacted either physically or online;
+“Confidentiality Incident” means any access, use, loss or communication of a User's personal information, including any information relating to a User which can directly or indirectly allow them to be identified, which is not authorized by law, or any loss or other breach of the protection of such information;
+“Data Protection Officer” means a role within a company or organization whose responsibility is to ensure that the company or organization is correctly protecting individuals' personal data according to current legislation;
+“Event Tagging” means tags that allow us to monitor certain events completed through our Website (e.g., purchases);
+“Fortune Coin” means the in-game currency as defined in the Rules Regarding Fortune Coins;
+“Gold Coin” means the in-game currency used to play Games that cannot be redeemed for Prizes;
+“Marketing Pixels” means pieces of code that allow us to gather information about anyone who visits our Website, including their engagement with our webpage;
+“Mobile Device Identifiers” means the unique customer identifier on every mobile device which is used to distinguish a mobile device. This unique identifier can be used for the purposes of internet-based advertising;
+“Participant” means a User who obtains Fortune Coins, participates in games using Fortune Coins, and/or redeems Fortune Coins;
+“Prize(s)” means Fortune Coins which are eligible to be redeemed by a Participant;
+“Service” means any of the services available through our Website or mobile applications;
+“Website” means our website at www.fortunecoins.com;
+“User” means a person who uses the Service.
+Introduction
+As the company offers its Services to the Canadian Market, this Privacy Policy is subject to, but not limited to, the obligations under the following regulations:
+The Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”);
+Canada's Anti-Spam Legislation (“CASL”);
+Alberta's Personal Information Protection Act (“Alberta PIPA”);
+British Columbia's Personal Information Protection Act (“BC PIPA”); and,
+Ontario's Freedom of Information and Protection of Privacy Act (“FIPPA”).
+What We Collect
+We collect information about you in a number of ways. Examples of the directly identifiable information we collect includes information that you provide to us and it includes:
+Contact details, including your email address, physical mailing address, mobile phone number (and any other phone number(s) provided).
+Personal information such as your first name, surname, age and likeness.
+Account login details, including your unique username, unique password and any photos associated with your account.
+Transaction information provided by you. This information may include your mailing address, phone number, payment and/or redemption information such as financial institution information, credit card information and bank account statements.
+Information sent as part of live chat, email, or any other method of customer support.
+Information we obtain from a third-party (e.g., Facebook) regarding your connection to our services.
+Your location information, including information provided by a device interacting with our platform.
+Activity and device information about your use of our Service, including which content you view/use, when and for how long you access our Service, how often you use our services, how you heard about our Service, the specific hardware model you are using, the device type you are using, other unique device identifiers, operating system, browser type and IP address; and
+Any documentation which we request to verify that you are eligible to have an account and receive payouts.
+We may also collect information which does not directly identify you, as well as information about groups of customers which does not directly identify you, including, but not limited to, your patterns of use of the Website or the zip code/postal code associated with your device.
+Your Representations
+By providing your information to us, you represent that any information you provide is true and accurate. You acknowledge that your contact information, including but not limited to, your phone number and email address, are true and accurate. Further, you admit that you are the subscriber to any telephone number that you provide to us.
+How We Collect Information
+User information is collected in a number of ways, including when a User accesses our Service, registers an Account, makes a purchase, answers a survey (including those sent from a related third-party), and in connection with any other service, feature or resource offered by us.
+By providing your telephone number(s) to us, you agree to being contacted at the number provided to us. Ways in which you may be contacted include pre-recorded voice messages, autodialed calls, SMS messages and emails from or on behalf of us related to:
+The Documentation;
+Any purchases or redemptions related to your Account; and
+Promotional matters from or on behalf of us, provided we have your opt-in consent for pre-recorded voice messages, autodialed calls, emails and SMS messages.
+We may communicate in the ways described above even though a phone number is registered on a state, provincial or federal Do Not Call List. We are not responsible for any charges incurred by Users from their telephone provider(s) for texts or calls received from or on behalf of us.
+You may opt-out of these messages by contact us at support@fortunecoins.com or by using the unsubscribe feature in the message.
+We also collect information from Users through telephone, video or correspondence, including email, instant messaging, physical mail, SMS and/or social media platforms. Telephone and video calls with us may be recorded for the purposes of training, quality control and compliance. By partaking in any such call with us as described above, you consent to your call being recorded.
+For Canadian Users, as part of our KYC process and in accordance with applicable law, we may obtain a credit report about you from a credit reporting agency. We may use the credit report for any lawful purpose, including, but not limited to: (i) for authentication purposes, to confirm your identity, (ii) to ensure you are in a suitable financial position to use our Website, and/or (iii) to prevent unlawful activity from your Account, including, but not limited to, fraud or money laundering. The name and address of the credit reporting agency we may contact for your credit report is:
+Equifax Canada Co.
+
+National Consumer Relations
+
+Box 190
+
+Montreal, Quebec
+
+H1S 2Z2
+
+1-800-871-3250
+
+We use a variety of technologies embedded in our Website or in our applications on third party sites and platforms including cookies, pixels, tags and application program interfaces (“API”). For example:
+In order to enhance your user experience, we use industry standard identifiers, such as cookies or similar technologies. A cookie is a small text file saved locally on your computer or mobile device when you visit our Website. This small text file may include a unique identifier, making it possible to distinguish your device from another device.
+Examples of similar identifying technologies that we may use are:
+Marketing Pixels;
+Mobile Device Identifiers. We may, at times, share your Mobile Device Identifiers with advertisers; and
+Event Tagging.
+Analytical tools may also be used to collect information, including when you visit our Website or use our applications or services on third party sites or platforms.
+How We Use Your Information
+We may use your information for the purposes set out in this Privacy Policy. Your information may also be accessed by other companies within our group of companies when acting on behalf of us as a data processor as outlined in this Privacy Policy.
+We retain all customer information collected by means described in this Privacy Policy as long as required by this Privacy Policy or as long as is permitted by law. We may share your information collected with our group of companies or third-party companies providing a service to customers directly or indirectly through us. We may use and/or share your information with third parties, in accordance with applicable law, to offer the best possible experience for you or to offer additional services. Some reasons for which your information may be collected and used/shared are:
+To provide services as requested by you, including the establishment and maintenance of your Account and routine security checks to ensure the security of your information.
+To provide you with the best customer service experience possible. Information provided and/or collected from you will help us in responding to any customer service requests. Feedback provided by you may be used to improve our products and services.
+In the processing of payments, we may use information provided by you in order to comply with various due diligence requirements, including as related to anti-money laundering and to verify payment details. We do not share any payment information with third party payment processors except to the extent necessary in providing transactional services.
+Aggregated information may be used to best understand our users in order to deliver the most tailored user experience possible.
+To contact you about our services, we may contact you by email, live chat, telephone, SMS, physical mail or social media in order to manage promotions and competitions that you elect to enter.
+In sending you important notices regarding matters such as purchases you have made or changes to any of our policies.
+In complying with all our legal and/or regulatory obligations, we may use the information we collect to ensure compliance with the Documentation and our regulatory obligations.
+Your Rights Over Your Information
+By law, you have a number of rights concerning the information about you that we collect and store securely. Please contact our Data Protection Officer if you wish to exercise any of the rights outlined in this Section 7.
+You have the right to access personal information about you that we securely store, the right to object to the processing of your personal information and the right to withdraw any consent given through this Privacy Policy.
+How We Protect Your Information
+Keeping your personal information secure is our top priority. Through the use of physical, electronic and operational protocols we are able to protect your personal information. We use industry-standard practices for data collection, data storage, and data processing to protect your information against unauthorized access, manipulation, disclosure or destruction. We regularly review our security protocols and make sure that they meet industry-standards. However, no data transmission or storage system is 100 percent secure from unauthorized access or use. If you have reason to believe that your personal information has been compromised while in our care, please immediately notify us at support@fortunecoins.com.
+
+How Long Will Do We Keep Your Information
+We may retain your information as long as we require in order to fulfill the practices outlined in this Privacy Policy, in accordance with our commercial needs, or as permitted by law.
+In the event that you or we close your Account, we may retain your Account information in order to resolve any further disputes or provide clarifications in regards to your Account.
+Sharing Your Information
+We may share your information within our group of companies or with a third party who will provide services to you for us. We may also share your information with other third parties in order to stay compliant with our legal obligations. We will only share the minimum amount of your information required to fulfil these purposes.
+We reserve the right to use a User's information to announce the winning of any Prize through use of our Service, including their name, the amount of Fortune Coins or Gold Coins, their city, state (or province), country, profile picture or any other personal information collected as described in this Privacy Policy for marketing purposes including on social media platforms, affiliated marketing channels and through physical media channels (radio, television, print media).
+We may also share your information in connection with the sale, merger, acquisition (or similar transaction) of the company to a third party and/or the transfer of substantially all of the assets of the company to a third party.
+Changes To This Privacy Policy
+This Privacy Policy may be updated from time to time to reflect changes in the law and changes to our policies. You will be made aware of any material changes and, where required by law, we will obtain your consent.
+Any changes to the Privacy Policy will become effective when the updated Privacy Policy is posted on our Website.
+Users are responsible for staying up to date on the changes to our Privacy Policy posted on our Website. We recommend checking this page regularly for updates. We will post the “date updated” at the top of the Privacy Policy.
+Contacting Us
+Please contact our Data protection office at support.fortunecoins.com.
+Information for Specific Groups located in the United States
+Our Services are restricted to individuals who have attained the age of majority in their jurisdictions. Accordingly, we will never knowingly collect or maintain information from minors. If you believe that a minor may have provided us with personal information and you would like for us to delete that information, please contact us at support@fortunecoins.com.
+For Nevada Residents
+Under Nevada law, Nevada residents who have made purchases related to the Services may opt out of the “sale” of “Covered Information” (as such terms are defined under Nevada law) for financial consideration to a person for that person to license or sell such information to additional persons. While we may share your information with third parties we believe can provide you with offers and promotions for goods and services of interest to you, we do not believe this sharing would qualify as a sale under Nevada law. Regardless, if you are a Nevada resident who has made purchases related to the Services, you may submit a request to record your preference to opt out by emailing the Data Protection Officer at support@fortunecoins.com. We may take reasonable steps to verify your identity and that the request came from you.
+For California Residents
+As a California resident, you have the right to request that we disclose what personal information we collect from you, to delete that information, and, subject to certain restrictions, to opt out of the sale of your personal information.
+You may exercise your California privacy rights by contacting the Data Protection Officer by opening a ticket on our customer support portal at support.fortunecoins.com. We will verify your identity when you request to exercise your rights. Logging into your Account may be sufficient, however if we have reason to suspect that your Account has been compromised, or if you do not have an Account, we may request additional verification information from you.
+You have the right to designate an agent to exercise your rights on your behalf. Your agent must verify authorization to make a request on your behalf by providing us with a signed written authorization or a copy of a power of attorney.
+You have the right to request, up to two times in a 12 month period, that we disclose what categories of your personal information that we collect, use, and share, including the specific pieces of personal information we have collected from you and which information is shared with third parties for direct marketing purposes.
+You have the right to request that we delete personal information that we collect from you. Some information may be exempt from such requests under California law.
+You will not be denied access to the Services or provided with a modified version of the Services if you choose to exercise these rights.
+We may sell information that directly identifies you such as your name, telephone number, mailing address or email address. You may opt out of the sale of your personal information. If you would like to opt-out, please contact the Data Protection Officer by opening a ticket on our customer support portal at support.fortunecoins.com.
+If you are a California resident under the age of 19, you may view, correct, or delete information provided by you or publicly posted by you by sending us an email asking us to delete certain posted content. Please note that our Services are restricted to individuals who have attained the age of majority in their jurisdictions. Accordingly, we will never knowingly collect or maintain information from minors.
+You have the right to be informed as to how we respond to “Do Not Track” settings. We do not currently take actions to respond to “Do Not Track” settings and instead we adhere to the standards set out in this Privacy Policy.
+California Collection Notice. We may share information described below with third parties for the following purposes: (i) with our group companies for the purposes described in this Privacy Policy; (ii) with vendors and partners we engage in order to provide you with the Services; (iii) if required to do so by applicable law or legal process; (iv) if necessary to exercise, establish, or defend our legal rights; (v) if necessary to protect the vital interests of any person; and (vi) in connection with the sale of our business. We may collect categories of information. The table below describes how we collect and use such categories of information:
+Categories of information collected	Purposes of use	Sources of personal information
+Identifiers and Contact or Registration Information, e.g., name, email address, postal address, phone number	
+Financial fraud prevention
+Account takeover prevention
+Promotional content
+You, both directly and through your use of our platform
+Social Media or other third-party accounts
+Demographic Information, e.g., gender, age, etc.	
+Legal - to make sure you are eligible to use our platform
+Business analytics
+You, both directly and through your use of our platform
+Customer Support Inquiries, e.g., questions and other messages you address to us directly through online forms	
+Business analytics
+Dispute resolution
+Improved customer support
+You, both directly and through your use of our platform
+Our service providers
+Device Information and Device Identifiers, e.g., IP address; browser type and language; operating system; platform type; device type; software and hardware attributes; and unique device, advertising, and app identifiers	
+Financial fraud prevention
+Account takeover prevention
+Business analytics and quality assurance
+Dispute resolution
+You, both directly and through your use of our platform
+Our service providers
+Connection and usage data, e.g., interactions with our websites, files you download, domain names, landing pages, usage activity, content viewed and accessed, dates and times of access, pages viewed, forms you complete or partially complete, search terms, uploads or downloads, whether you open an email and your interaction with email content, access times, error logs, and other similar information	
+Financial fraud prevention
+Account takeover prevention
+Monitoring system function
+Business analytics
+Dispute resolution
+You, both directly and through your use of our platform
+Our service providers
+Geolocation, e.g., city, state and ZIP code associated with your IP address	
+Financial fraud prevention
+Account takeover prevention
+Business analytics
+Dispute resolution
+Legal - to make sure you are eligible to use our platform
+You, both directly and through your use of our platform
+Our service providers
+Bank/Payment Details	
+Financial fraud prevention
+Verification of your details for the deposit and redemption processes
+You, both directly and through your use of our platform
+Other Information, e.g., any other information you choose to directly provide to us in connection with your use of the services	
+Potential fraud prevention
+Business analytics
+Promotional content
+Dispute resolution
+You, both directly and through your use of our platform
+Information for Specific Groups located in Canada
+For Residents of Canada not located in Alberta
+In the event a User's information has been subject to a Confidentiality Incident which presents or may present a real risk of significant harm to the User, we shall provide notice to the Office of the Privacy Commissioner of Canada (“OPC) and the User of such Confidentiality Incident as soon as feasible.
+For Residents of Canada located in Alberta
+In the event a User's information has been subject to a Confidentiality Incident which presents or may present a real risk of significant harm to the User, we shall provide notice to the Office of the Information and Privacy Commissioner of Alberta of such Confidentiality Incident without unreasonable delay.
+We will maintain records of all Confidentiality Incidents in the form and for as long as required by applicable law.
+Logo
+facebookinstagramtwittertiktok
+fortunecoins.com is a sweepstakes casino that provides free casino style entertainment to players in the United States and Canada (exclusions apply). With our sweepstakes model, you can win free coins that can be used on all games in our library. Try your luck on our thrilling video slots and card games.
+
+Terms & Conditions
+Privacy Policy
+Contact Us
+Become an Affiliate
+The information you have agreed to provide will be used only for the purpose of this promotion. NO PURCHASE IS NECESSARY to enter the Sweepstakes. SWEEPSTAKES ARE VOID WHERE PROHIBITED BY LAW. For detailed rules, see Sweeps Rules.
+
+A minimum age of US Citizen age for US residents and Canadian Citizen for Canadian residents is required.
+
+DMCA.com Protection Status
+team
+Responsible Social Gameplay
+gli icon
+Copyright © 2024 fortunecoins.com. All rights reserved.
+
+In USA, fortunecoins.com is operated by Social Gaming LLC.
+In Canada, fortunecoins.com is operated by Social Gaming LTD.
+
+The registered address of Social Gaming LLC is 2711 Centerville Road, Suite 400, Wilmington, Delaware, 19808, USA
+The registered address of Social Gaming LTD is 50 Eileen Stubbs Avenue, Dartmouth, NS, Canada, B3B 0M7
+
+Fortune Coins | Top Social Casino in Canada & the U.S.
