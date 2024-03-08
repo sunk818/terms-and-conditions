@@ -1,48 +1,46 @@
 Logo
 go backGO BACK
 TERMS & CONDITIONS
-Zula Casino Terms & Conditions
+Zula Casino Terms & Conditions  
 
-THE GAMES AND PLATFORM DO NOT OFFER REAL MONEY GAMBLING, AND NO ACTUAL MONEY IS REQUIRED TO PLAY
+THE GAMES AND WEBSITE DO NOT OFFER REAL MONEY GAMBLING, AND NO ACTUAL MONEY IS REQUIRED TO PLAY
 
 NO PURCHASE NECESSARY TO PLAY; NO PURCHASE NECESSARY TO ENTER OR TO WIN
 
 VOID WHERE PROHIBITED, OFFICIAL RULES AND RESPONSIBLE GAMING POLICY APPLY
 
-ONLY PLAYERS IN THE UNITED STATES (EXCLUDING THE STATES OF IDAHO, MICHIGAN AND WASHINGTON) ARE ELIGIBLE TO ENTER THE SWEEPSTAKES. PLEASE REFER TO CLAUSE 1.1 OF THE CUSTOMER ELIGIBILITY REQUIREMENTS TO CHECK YOUR ELIGIBILITY.
+ONLY PLAYERS IN THE UNITED STATES (EXCLUDING THE STATES OF IDAHO, MICHIGAN, GEORGIA AND WASHINGTON) ARE ELIGIBLE TO ENTER THE SWEEPSTAKES. PLEASE REFER TO SECTION 1.1 OF THE CUSTOMER ELIGIBILITY REQUIREMENTS TO CHECK YOUR ELIGIBILITY.
 
-READ SECTION 11 CAREFULLY - PLEASE NOTE THAT THESE TERMS AND CONDITIONS INCLUDE A PROVISION WAIVING THE RIGHT TO PURSUE ANY CLASS, GROUP OR REPRESENTATIVE CLAIM AND REQUIRES YOU TO PURSUE ANY PAST, PENDING, AND FUTURE DISPUTES BETWEEN YOU AND US THROUGH INDIVIDUAL ARBITRATION UNLESS YOU OPT OUT WITHIN THE SPECIFIED TIME FRAME.
+READ SECTION 12 CAREFULLY - PLEASE NOTE THAT THESE TERMS AND CONDITIONS INCLUDE A PROVISION WAIVING THE RIGHT TO PURSUE ANY CLASS, GROUP OR REPRESENTATIVE CLAIM AND REQUIRES YOU TO PURSUE ANY PAST, PENDING, AND FUTURE DISPUTES BETWEEN YOU AND US THROUGH INDIVIDUAL ARBITRATION UNLESS YOU OPT OUT WITHIN THE SPECIFIED TIME FRAME.
 
-Version 1.2              Date Published: January 10, 2024
+Version 1.4              Date Published: March 7, 2024
 
-IMPORTANT NOTICE: These Terms and Conditions of Use form a legally binding agreement between you and us and apply to your use of the Website. Please read them carefully before signing up or creating an account.
+IMPORTANT NOTICE: These Terms and Conditions of Use form a legally binding agreement between you and us and apply to your use of the Website. Please read them carefully before signing up or creating an account. These Terms and Conditions of Use have been updated since the last version published on January 10, 2024, supersede and replace all prior agreements and versions of Terms and Conditions of Use
 
- SCPS LLC with the business address at 1201 North Market Street, Suite 111, Wilmington, DE 19801 United States, operates our Website and Services in the Permitted Territory. These Terms and Conditions of Use apply to and are binding upon you if you use our Website. Please read and review these Terms and Conditions of Use (the “Agreement”) along with the Privacy Policy, Responsible Social Gameplay Policy, Zula Casino Sweepstakes Rules, Customer Eligibility Requirements, and any other documents which form part of our documentation (the “Documentation”) before using our Website. By accessing or using our Website (as defined below), you acknowledge that you have read, understood, and accepted this Agreement and our Documentation. Your continued use of our Website signifies that you accept any updates made to this Agreement. If you do not agree with any part of this Agreement, you may not access or use our Website.
-
-PLEASE NOTE THAT SECTION 11 OF THESE TERMS AND CONDITIONS INCLUDES A PROVISION WAIVING THE RIGHT TO PURSUE ANY CLASS, GROUP OR REPRESENTATIVE CLAIM AND REQUIRING YOU TO PURSUE PAST, PENDING, AND FUTURE DISPUTES BETWEEN YOU AND US THROUGH INDIVIDUAL ARBITRATION UNLESS YOU OPT OUT WITHIN THE SPECIFIED TIME FRAME.
+SCPS LLC (“We” or “Us”) with the business address at 1201 North Market Street, Suite 111, Wilmington, DE 19801 United States, operates our Website and Services in the Permitted Territory. These Terms and Conditions of Use apply to and are binding upon you if you use our Website. Please read and review these Terms and Conditions of Use (the “Agreement”) along with the Privacy Policy, Responsible Social Gameplay Policy, Zula Casino Sweepstakes Rules, Customer Eligibility Requirements, and any other documents which form part of our documentation (the “Documentation”) before using our Website or its Content. By accessing or using our Website (as defined below), you acknowledge that you have read, understood, and accepted this Agreement and our Documentation. Your continued use of our Website or its Content signifies that you accept any updates made to this Agreement. If you do not agree with any part of this Agreement, you may not access or use our Website or its Content.
 
 Definitions
 The following definitions apply to this Agreement:
 “Account” means your User account with us, which you sign up for at https://zulacasino.com;
-“Content” means all information, Games, images, text, data, links, documents, software, Sweeps Coins, Gold Coins, or other materials accessible and available to Users through our Website. All Content is subject to and protected under the intellectual property rights;
+“Content” means all information, Games, images, text, data, links, documents, software, Sweeps Coins, Gold Coins, or other materials accessible and available to Users through our Website. All Content is subject to and protected under the intellectual property rights and is solely owned by Blazesoft Ltd;
 “Covered Information” means information which allows a specific person to be contacted either physically or online, including, without limitation, first and last name, address, email address, phone number, or other identifier which allows a specific person to be contacted either physically or online;
 “Data Protection Officer” means the person designated by us to address data protection matters related to the Service;
 “Eligible Participant” means a person who has met the requirements in our Customer Eligibility Requirements document;
-"Excluded Territory” means a geographic location where Users are not permitted to access the content on the Website including, the States of Washington, Georgia, Michigan and Idaho;
+"Excluded Territory” means the states of Washington, Idaho, Georgia, and Michigan in the United States and any other jurisdiction outside of the United States;
 “Sweeps Coin” means the in-game currency as defined in the Zula Casino Sweepstakes Rules;
 “Game(s)” means any game that we offer through our Website;
 “Gold Coin” means the in-game currency used to play Games that cannot be redeemed for Prizes;
 “Restricted Jurisdictions” mean the States of New York and Florida where the maximum win for a single sweepstakes play within a game is restricted to less than 5000 Sweeps Coins. For further details please check the Zula Casino Sweepstakes Rules;
-“Participant” means a User who obtains Sweeps Coins, participates in games using Sweeps Coins, and/or redeems Sweeps Coins;
+“Participant” means a registered User who obtains Gold Coins or Sweeps Coins, participates in games using Gold Coins or Sweeps Coins, and/or redeems Sweeps Coins;
 “Permitted Territory” means any territory in which we permit our services to be offered. We reserve the right to change our Permitted Territories at any time at our sole discretion. Information on Permitted Territories is set out in our Customer Eligibility Requirements document;
 “Prize(s)” means Sweeps Coins which are eligible to be redeemed by a Participant;
 “Promotion(s)” means any of our promotions which allows Participants to obtain Sweeps Coins, participate in Games using Sweeps Coins, and/or redeem Sweeps Coins;
-“Product” or “Products” mean zulacasino.com, all Content and similar materials offered to the User as a part of our Service. Our Products are fully and solely owned by Blazesoft Ltd;
 “Zula Casino Sweepstakes Rules” means document setting out the rules regarding the collection, use, and redemption of Sweeps Coins;
 “Service” means any of the services available through our Website or mobile applications;
-“Third Party Game(s)” means a Game or Games which are provided by a third party;
+“Third Party Game(s)” means a Game or Games which are provided by a third party and may include Third Party Materials referred under Section 15.1 of this Agreement;
+“Terms and Conditions of Use” or “Terms of Use” or “Terms and Conditions” have the same meaning throughout this Terms and Conditions of Use and refers to this Agreement;
 “User/s” means a person who uses the Service;
-“Website” means our website available at https://zulacasino.com and includes our Products and Services which is fully owned by Blazesoft Ltd;
+“Website” means our website available at https://zulacasino.com and includes our Content and Services which are fully owned by Blazesoft Ltd;
 Eligibility
 To use the Services, you must:
 Be an Eligible Participant;
@@ -51,8 +49,8 @@ Be of the age of majority in your jurisdiction;
 Be located in a Permitted Territory;
 Not be one of Our employees, affiliates, subsidiaries, holding companies, advertising agencies, or any other company or individual involved with the design, production, execution or distribution of our Games and their immediate family and household members.
 Our Website is only for Users who reside and are located in a Permitted Territory. All Users are solely responsible for ascertaining whether it is legal in your jurisdiction to participate on our Website. Any User who knowingly accesses or attempts to access our Website from an Excluded Territory, including through the use or attempted use of a virtual private network (VPN) or other similar service, is in breach of this Agreement and may be subject to criminal prosecution.
-Accounts & Website Access
-In order to play the Games offered through our Website, Users must first open an Account.
+Accounts, Website and Content Access
+In order to play the Games offered through our Website and its Content, you must first open an Account.
 Opening an Account requires that you choose a unique Account name and password, along with any other information requested through our registration form. All details provided during Account registration must be accurate and kept up to date. You must not use an account name or password that contains language or words that contain hate speech, offensive or derogatory language of any kind, or infringe others’ intellectual property rights. We reserve the right to reject any account names or passwords.
 The name associated with your Account must match your legal name and identity. The name associated with your Account must also match the name on any credit card or form of payment used to deposit money into your Account.
 Users are only allowed to open and operate one Account. Opening, operating, attempting to open or attempting to operate multiple Accounts may lead to closure of all your Accounts and render any Gold Coins, Sweeps Coins, or Prizes won by you void.
@@ -63,20 +61,26 @@ If you have not completed all documentation required to redeem a Prize, and if w
  Closing your Account is possible by contacting us at support@zulacasino.com and requesting your Account be closed.
 It is your responsibility to withdraw any Account balance remaining within seven days of requesting an Account closure. After seven days, your Account will be closed and any balance remaining in your Account will be forfeited.
 We take responsible social gaming seriously. For more information on an Account time-out or self-exclusion, please see our Responsible Social Gameplay Policy.
-We, in our absolute sole discretion, reserve the right to limit (for example, by setting daily purchase amount limits), suspend, close, refuse to open an Account or refuse to issue any redemptions of Sweeps Coins or Prizes in your Account for any reason we deem necessary, including, but not limited to, for any breach of this Agreement or for engaging or attempting to engage in any of the Prohibited Activities outlined in Section 7 of this Agreement.
 If any purchases are subject to a chargeback request, payment reversal, or if we suspect that fraudulent activity is occurring on Account, your Account will be immediately suspended and we may take the following steps: (i) close your Account; (ii) refuse to issue any redemptions of Sweeps Coins in your account; (iii) automatically request the return of any Prize redemptions from the payment processor or bank; or (iv) report to governmental authorities or law enforcement.
 If, for any reason, your purchase of Gold Coins is subsequently declined, you must contact us immediately to resolve this matter. If you do not contact us immediately, we may block your account and refuse to redeem Sweeps Coins.
 We may offer certain Eligible Participants early access to the Website or certain functionality on the Website (“Early Access”). During the Early Access period, certain features on the Website may be disabled. By participating in the Early Access period you understand and agree that you will have no recourse against us related to your experience on the Website during the Early Access period.
 You agree not to attempt to damage, deny service to, hack, crack, reverse-engineer, run scripts, access or attempt to access our APIs, alter parameters, engage in brute force attacks, or otherwise interfere (“Interfere”) with the Website. If you in any way Interfere with the Website, you agree to pay all damages incurred by us. We will cooperate with authorities in prosecuting anyone who Interferes with the Website or otherwise attempts to defraud us or any other parties through use of the Website. We reserve the right to deny any or all access to the Website, to any User for any reason, at any time, in our sole discretion. You agree that we may block your access at any time, and at our sole discretion we may disallow your continued use of the Website without notice. We reserve the right to take any action we may deem appropriate in our sole discretion with respect to violations or enforcement of the terms of this Agreement, and we expressly reserve all rights and remedies available to us at law or in equity.
+
+Changes to the Website and Content
+
+We reserve the right to suspend, modify, remove or add Content (including its availability) to the Website at our sole discretion with immediate effect and without notice to you. We will not be liable to you for any loss suffered as a result of any changes made or for any modification to, or suspension, unavailability, or discontinuance of, the Content or Website (including any Game, promotion, daily bonus, refer a friend or challenge thereon) and you will have no claims against us in such regard.
+
+
 Playing Our Games
 It is your responsibility to make sure that you understand the rules of any Game offered on our Website before playing.
 The Rules Regarding Zula Casino shall be construed and read into these Terms and Conditions and shall have full force and effect during your game session on our Website, including, but not limited to the Playthrough Requirements, consequences of irregular play, etc. You must review the Rules Regarding Zula Casino carefully.
+Our Website or its Content may provide you with a unique experience which may be different from your experience of engaging with similar websites or their content.
 Foreign exchange transaction fees incurred through the purchase of Gold Coins are your responsibility.
 The payment method that you choose to use to purchase any Gold Coins must be registered under the same first and last name used during registration of your Account.
 We reserve the right to declare your participation in any of our Games to be void in our sole discretion, for any or no reason, including, but not limited to, if we conclude there has been or may be, a human, system or technological error that has occurred or may occur on our Website.
 All decisions made by us as to the administration and operation of our Games are final and binding.
 Not all Gold Coin packages include Sweeps Coins. It is your responsibility to review the terms of all Gold Coin packages. All purchases of Gold Coins are final.
-The purchase of Gold Coins is the purchase of a temporary license granted to You by Us in accordance with Section 10 below, and allows you to participate in our games and is not a deposit of funds which can be withdrawn. Funds used to purchase Gold Coins will not, and cannot, be refunded to you. Gold Coins do not have any real money value. No refunds will be given.
+The purchase of Gold Coins is the purchase of a temporary license granted to You by Us in accordance with Section 11 below, and allows you to participate in our games and is not a deposit of funds which can be withdrawn. Funds used to purchase Gold Coins will not, and cannot, be refunded to you. Gold Coins do not have any real money value. No refunds will be given.
 NO PURCHASE NECESSARY to obtain Sweeps Coins. You may receive 8 Sweeps Coins as a free claimable reward. Please follow the instructions in section 3.2 of the Zula Casino Sweepstakes Rules document.
 Games will display the value of Sweeps Coins with a decimal point and fractional digits. The fractional digits displayed on such Games represent the fractional value of one (1) Sweeps Coin.
 New Games may be capped at a multiplier of 2,000 of the play size for a single spin for a period of fifteen (15) calendar days after the launch.
@@ -94,7 +98,7 @@ Promotions
 The Website may, from time to time, offer certain Promotions and these Promotions may have separate terms, conditions and rules that are Promotion specific and any Sweeps Coins credited to a Participant’s Account must be used in adherence to such terms and conditions. Where play requirements for Sweeps Coins are not specifically stipulated in Promotion specific rules then this Agreement will apply. Please refer to the Zula Casino Rules regarding Sweeps Coins for more details.
 The Website may, from time to time, provide you with exclusive offers or packages (“Exclusive Offer(s)”) for your participation on our Website or for certain Promotions. Any Exclusive Offer communicated to you is solely for your benefit and shall only be redeemable by you. You shall not disclose any information regarding an Exclusive Offer to any third party for an improper purpose, which may include, but not be limited to, fraud or misrepresentation.  
 Prohibited Activities
-At any time, we reserve the right to (i) suspend or close your Account indefinitely or (ii) withhold all or part of the balance or recover from your Account or your bank account any Prizes, Gold Coins or Sweeps Coins, if you have breached or we believe you have breached any provision of this Agreement (including the Rules Regarding Zula Casino), or if we believe you have engaged, attempted to engage, or will engage in the future in any of the following activities:
+At any time, we reserve the right to (i) suspend or close your Account indefinitely or (ii) withhold all or part of the balance or recover from your Account or your bank account any Prizes, jackpots, Gold Coins or Sweeps Coins, if you have breached or we believe you have breached any provision of this Agreement (including the Rules Regarding Zula Casino), or if we believe you have engaged, attempted to engage, or will engage in the future in any of the following activities:
 You operate multiple Accounts;
 You attempt to issue a chargeback or reverse a payment made to us without our consent;
 You misrepresent your Account details, including, but not limited to, your identity, age, location, place of residence, and citizenship;
@@ -105,8 +109,10 @@ You communicate with us or our staff in an offensive manner, including, but not 
 You disclose information regarding an Exclusive Offer to a third party for an improper purpose such as fraud or misrepresentation;
 You disclose your Account information to a third party;
 You allow a third party to access your Account;
-You play a Game or use the Website in a coordinated manner with third parties or other User(s); or
-You make a false, misleading, derogatory or abusive statement about the Website on any public forum, including, but not limited to, Facebook, Twitter, Instagram, Reddit or any other social media platform.
+You play a Game or use the Website in a coordinated manner with third parties or other User(s);
+You make a false, misleading, derogatory or abusive statement about the Website on any public forum, including, but not limited to, Facebook, Twitter, Instagram, Reddit or any other social media platform; or
+If in Our reasonable opinion, we form the view that you are abusing any promotion, jackpot, game or Content to derive any advantage or gain for yourself or other Participant/s, including by way of fraudulent activity.
+
 Financial Fraud
 You declare that the source of funds used by you for playing on the Website is not illegal and that you will not use the Website in any way as a money transfer system. You will not use the Website for any unlawful or fraudulent activity or prohibited transaction (including money laundering) under the laws of any jurisdiction that applies to you.
 If we have reasonable suspicion that you may be engaging in or have engaged in fraudulent, unlawful or improper activity, including, without limitation, money laundering activities, or conduct otherwise in violation of this Agreement, your access to the Website may be terminate immediately and/or your Account terminated. If your Account is terminated or suspended in such circumstances, the Website is under no obligation to refund to you any balance that may be in your Account.  
@@ -128,8 +134,8 @@ Privacy Policy
 We are committed to the protection of your privacy and personal data. Any use of your personal data will be done in accordance with our Privacy Policy.
 If we partner with a third party whereby they carry out certain functions for Us, we may be required to share your personal information with them. Your use of our Website and consent to this Agreement, gives your consent for us to share the necessary information with third party partners.
 License
-Through this Agreement, we are granting you a personal, limited, non-exclusive license to use our Website for your non-commercial use. To the fullest extent permitted by applicable law, this license granted to use our Website is non-transferable. The license may not be rented, leased, lent, sold, redistributed, or sublicensed in any way.
-The license rights granted to you herein are also subject to the limitations set forth below. Any use of the Product in violation of these limitations is a serious violation of these Agreements and subjects you to immediate termination of your license. You agree that you will not, under any circumstances:
+Through this Agreement, we are granting you a personal, limited, non-exclusive license to use our Website and its Content for your non-commercial use. To the fullest extent permitted by applicable law, this license granted to use our Website and its Content is non-transferable. The license may not be rented, leased, lent, sold, redistributed, or sublicensed in any way.
+The license rights granted to you herein are also subject to the limitations set forth below. Any use of the Content in violation of these limitations is a serious violation of this Agreements and subjects you to immediate termination of your license. You agree that you will not, under any circumstances:
 Exploit or reverse engineer any Games or the Website, for any commercial purpose;
 Use any unauthorized third-party software that intercepts or collects information from or through our Website;
 Violate any applicable law or regulation in connection with your use of our Website
@@ -138,42 +144,92 @@ Interfere or attempt to interfere with the operation of the Website in any way t
 Reproduce, distribute, display, transfer or use any part of the Website except as expressly authorized by Us; or,
 Scrape, copy, aggregate, redistribute, alter, reproduce or re-use any user’s information accessible through the Website. You understand that access to the Website may result in access to other user’s information as set out in the Privacy Policy available at https://zulacasino.com/privacy-policy/ which is protected by applicable data protection and privacy laws and regulations. You understand, acknowledge and agree that any Personal Information from other users constitute our confidential information.
 Dispute Resolution and an Agreement to Arbitrate on Individual Basis
-READ THIS SECTION CAREFULLY. IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT. THIS SECTION REQUIRES YOU AND ZULA CASINO TO ARBITRATE CERTAIN DISPUTES AND CLAIMS ON AN INDIVIDUAL BASIS AND LIMITS THE MANNER IN WHICH YOU AND ZULA CASINO CAN SEEK RELIEF FROM EACH OTHER.
+PLEASE READ THIS ARBITRATION AND CLASS ACTION WAIVER AGREEMENT (the “Arbitration Agreement”) CAREFULLY. THIS ARBITRATION AGREEMENT INCLUDES A MANDATORY ARBITRATION PROVISION WHICH SETS FORTH HOW PAST, PENDING OR FUTURE DISPUTES BETWEEN YOU AND SCPS LLC SHALL BE RESOLVED BY FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL BASIS ONLY AND FOR YOUR OWN LOSSES ONLY. UNDER THIS AGREEMENT, YOU MAY NOT PROCEED AS A CLASS REPRESENTATIVE, MEMBER OR PART OF ANY PROPOSED CLASS, COLLECTIVE ACTION OR MASS ARBITRATION, PRIVATE ATTORNEY GENERAL SUIT OR ANY REPRESENTATIVE PROCEEDING, OR OTHERWISE SEEK TO RECOVER ON BEHALF OF OTHERS OR FOR THE BENEFIT OF OTHERS IN ANY TYPE OF CLAIM OR ACTION. ARBITRATION MEANS YOU WILL NOT BE ABLE TO SEEK DAMAGES IN COURT OR PRESENT YOUR CASE TO A JURY.
 
-Binding Arbitration
 
-Any concerns should be addressed to our customer support department at support@zulacasino.com.
-If a resolution cannot be reached by the parties through customer support within 30 days from the initiation of the complaint, either party may pursue binding arbitration as the sole means to formally resolve claims, subject to the terms set forth below.
-All claims arising out of or relating to this Agreement, the parties’ relationship with each other and/or your use of the Website shall be settled through binding arbitration.
-This arbitration shall be administered and will be governed by the ADR Chambers Rules, Toronto, Canada in the interpretation, applicability, enforceability and formation of this Agreement notwithstanding any other choice of law provision contained in this Agreement. You shall be responsible for the costs of the arbitration.
-Disputes referred to arbitration shall be resolved by a single arbitrator. The arbitrator shall be agreed to by both parties.
-The place of arbitration shall be Toronto, Ontario. The language of the arbitration shall be English.
-The arbitrator shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this Agreement, including without limitation any claim that all or any part of this Agreement is void or voidable, or whether a claim is subject to arbitration.
-The arbitrator shall grant any relief that would be available in a court under law or in equity.
-Any award granted by the arbitrator is binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
+ACCEPTANCE OF TERMS
+
+By using, or otherwise accessing the Service, or clicking to accept or agree to the Terms and Conditions where that option is made available, you accept and agree to this Arbitration Agreement. If you do not agree to this Arbitration Agreement, then you may not access or use the Service or Website. All of your activity on the Website and all or your transactions with SCPS LLC, including all events which occurred before your acceptance of this Arbitration Agreement, are subject to this Arbitration Agreement.
+
+
+SCOPE OF AGREEMENT TO ARBITRATE
+
+You and SCPS LLC agree that any past, pending, or future dispute, claim or controversy arising out of or relating to any purchase or transaction by You, your access to or use of the Service, or to this Arbitration Agreement, the Terms of Use, the Sweeps Rules or Privacy Policy (including without limitation any dispute concerning the breach, enforcement, construction, validity, interpretation, enforceability, or arbitrability of this Agreement or the Terms of Use) (a “Dispute”), shall be determined by arbitration, including claims that arose before acceptance of any version of this Agreement, except that you and SCPS LLC are NOT required to arbitrate any Dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. In addition, in the event of any Dispute concerning or relating to this Agreement — including the scope, validity, enforceability, or severability of this Agreement or its provisions, as well as the arbitrability of any claims—you and SCPS LLC agree and delegate to the arbitrator the exclusive jurisdiction to rule on his or her own jurisdiction over the Dispute, including any objections with respect to the scope, validity, enforceability, or severability of this Agreement or its provisions, as well as the arbitrability of any claims or counterclaims presented as part of the Dispute.
+
+
+SEPARATE AGREEMENT
+
+The parties acknowledge that this Agreement is a separate agreement between the parties governed by the Federal Arbitration Act, and that any alleged or determined invalidity or illegality of all or any part of the Terms of Use, the Service, the Website, the Sweeps Rules or the Privacy Policy shall have no effect upon the validity and enforceability of this Agreement.
+
+
+INFORMAL DISPUTE RESOLUTION
+
+SCPC LLC wants to address your concerns without the need for a formal legal dispute. Before filing a claim against SCPC LLC, you agree to try to resolve the Dispute informally by contacting Customer Support department via support@zulacasino.com. Similarly, if you have provided an email address to us as part of your Customer Account registration, SCPC LLC agrees to do the same. If a dispute is not resolved within 30 days after the email noting the Dispute is sent, either party may pursue binding arbitration as the sole means to formally resolve claims, subject to the terms set forth below.
+
+
+INITIATING ARBITRATION
+
+Following the conclusion of the initial dispute resolution process required by this Arbitration Agreement, you may seek arbitration of a Dispute in accordance with the provisions of this Arbitration Agreement. The arbitration shall be conducted by the American Arbitration Association (“AAA”) pursuant to its Consumer Arbitration Rules (“AAA Rules”), except as modified by this Agreement. The AAA Rules are available on the AAA’s website www.adr.org, or by calling the AAA at 202-223-8590, or its then current telephone number as provided on its website, or by sending a written request to: The American Arbitration Association, 1120 Connecticut Avenue NW, Suite 490 Washington, DC 20036.  In the event the AAA is unavailable or unwilling to hear the dispute in accordance with this Arbitration Agreement, the parties shall agree to, or a court shall select, another arbitration provider.  
+
+
+By signing a demand for arbitration, a party certifies, to the best of their knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that: (i) the demand for arbitration is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (ii) the claims and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (iii) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery. The Arbitrator shall be authorized to afford any relief or impose any sanctions available under Federal Rule of Civil Procedure 11 or any applicable state law for either party’s violation of this requirement.
+
+
+LOCATION OF ARBITRATION AND APPLICABLE RULES
+
+You and SCPS LLC agree that:
+
+provided the Dispute involves solely individual claims for damages in accordance with the Agreement, the American Arbitration Association (“AAA”) will administer the arbitration under its Consumer Rules in effect at the time arbitration is sought, available at www.adr.org, and the arbitration shall be conducted via telephone or other remote electronic means.  However, the parties agree: to select an arbitrator pursuant to the procedure set forth in R-12 of the Commercial Part Rules (instead of the Consumer Part Rules); that the AAA will only include arbitrators from the AAA National Registry Commercial Part list on the parties’ arbitrator selection list (instead of the Consumer list); and the AAA will only include arbitrators who are practicing attorneys or retired federal court judges who have at least ten years of substantive expertise in litigating and resolving of complex business disputes, including motions to compel arbitration and litigation or adjudication regarding whether disputes are arbitrable.
+You and SCPS LLC agree that the arbitration of any Dispute shall proceed on an individual basis and neither you nor SCPS LLC may bring a claim as a part of a Collective Arbitration.
+Without limiting the generality of the Arbitration Agreement, and as an example only, a claim to resolve a Dispute against SCPS LLC will be deemed a Collective Arbitration if: (a) two (2) or more similar claims for arbitration are pending concurrently by or on behalf of one or more claimants; and (b) counsel for two or more claimants are  same, share fees or coordinate in any way across the arbitrations.
+
+Notwithstanding the terms of this Arbitration  Agreement, to the extent a party attempts to assert any claims or seek relief on behalf of or for the use of other persons or a class under any theory, or in which injunctive relief is sought by a party that would significantly impact other SCPS LLC users or the operation of the Service or Website and its Content, the Commercial Arbitration Rules shall apply and, as appropriate, the Supplementary Rules for Class Action of the AAA may apply.
+the applicable AAA rules will govern payment of all arbitration fees.
+except as otherwise may be required by the AAA Rules, the arbitration will be held in Washington DC.
+the arbitrator shall be authorized to award any remedies, including injunctive relief, that would be available in an individual lawsuit and that are not waivable under applicable law, however, any relief must be individualized to you and shall not affect any other persons.
+except as and to the extent otherwise may be required by law, the arbitration proceeding, pleadings, and any award shall be confidential, except as may be necessary in connection with a court application for a preliminary remedy, a judicial challenge to an award or its enforcement.
+OPTION AND PROCEDURE TO OPT OUT OF ARBITRATION
+IF YOU HAVE NOT PREVIOUSLY AGREED TO AN ARBITRATION AGREEMENT  IN CONNECTION WITH YOUR USE OF OUR SERVICE, WEBSITE OR ITS CONTENT, YOU MAY OPT OUT OF THE ARBITRATION AGREEMENT BY FOLLOWING THE INSTRUCTIONS BELOW. IF YOU DO NOT OPT-OUT, THE ARBITRATION AGREEMENT  WILL APPLY RETROACTIVELY TO ALL CLAIMS YOU MAY POSSESS, WHETHER ASSERTED TO DATE OR NOT.
+
+IF YOU DO NOT WISH TO AGREE TO THE ARBITRATION AGREEMENT AND CLASS ACTION WAIVER AND YOU HAVE NOT PREVIOUSLY AGREED TO AN ARBITRATION AGREEMENT  IN CONNECTION WITH YOUR USE OF OUR SERVICE, WEBSITE OR ITS CONTENT, YOU MUST, WITHIN THIRTY (30) DAYS OF ENTERING THIS AGREEMENT, BY SENDING WRITTEN NOTICE OF YOUR DECISION TO OPT-OUT BY INCLUDING YOUR FIRST NAME, LAST NAME AND A BRIEF STATEMENT INDICATING THAT YOU DECLINE TO BE BOUND BY THE ARBITRATION PROVISIONS FOUND IN THIS AGREEMENT TO THE FOLLOWING ADDRESS:
+
+10-8707 Dufferin Street, Thornhill, PO BOX #168, Ontario, Canada L4J 0A2
+
+***NOTICE SENT TO OPT OUT AFTER THE 30 DAY PERIOD SHALL NOT BE EFFECTIVE.**
+
+Whether to agree to arbitration is an important decision. It is your decision to make and you are not required to rely solely on the information provided in these terms of use. You should take reasonable steps to conduct further research and to consult with counsel (at your expense) regarding the consequences of your decision.
+
 Under no circumstances will any Participant be permitted to obtain awards for, and all Participants hereby waive all rights to claim any punitive, incidental or consequential damages, or any other damages, including attorneys’ fees, other than Participant’s actual out-of-pocket expenses (the costs associated with participating in this Promotion), and Participant further waives all rights to have damages multiplied or increased.
+
 Class Action Waiver
 
 Any arbitration shall be conducted in the individual capacities of the parties only. No class action or other representative action will be undertaken.
-The parties expressly waive their right to file any class action or seek relief on a class basis.
-Opt-out of Arbitration
 
-You may decline this agreement to arbitrate by contacting legal@zulacasino.com within thirty (30) days of first accepting these Terms and Conditions. Please include your first name, last name and a statement that you decline this arbitration clause.
-opt-out of the provisions contained in the arbitration and class action waiver provisions described above by sending written notice of your decision to opt-out to the following address:
-10-8707 Dufferin Street, Thornhill, PO BOX #170, Ontario, Canada L4J 0A2
+The parties expressly waive their right to file any class action or seek relief on a class basis.
+
+By accepting this Arbitration Agreement and the Terms of Use you give up your right to participate in any past, pending or future class action or any other consolidated or representative proceeding, including any existing as of the date you agreed to this agreement. You also expressly waive and release, to the fullest extent available at law, any claim purported to be asserted by any other person on your behalf or for your use or benefit.
+
+WAIVER OF JURY TRIAL
+
+EACH PARTY HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THE SERVICE, WEBSITE AND ITS CONTENTS  OR ANY TRANSACTIONS BETWEEN THE PARTIES, WHETHER BASED ON CONTRACT, TORT, OR ANY OTHER THEORY.
+
+
+ Exceptions to Agreement to Arbitrate for Temporary Relief
+
+Notwithstanding the other provisions of this Section 12 (Dispute Resolution and Agreement to Arbitrate on an Individual Basis), either you or we may bring an action in a court as authorized by Section 13 for temporary injunctive relief until an arbitrator has been empaneled and can determine whether to continue, terminate or modify such relief.
 
 
 Jurisdiction and Applicable Law
 All issues and questions concerning the construction, validity, interpretation and enforceability of this Agreement, or the right and obligations of Users, are governed by, and construed in accordance with, the laws of Ontario, Canada, without giving effect to any choice of law or conflict of law rules.
 
 Intellectual Property Rights
-All Content and Products available on the Website is the sole and exclusive property of Blazesoft Ltd. Any applicable third-party content is duly licensed to Blazesoft Ltd. Blazesoft Ltd. owns the sole title, sole ownership and legal interest in the trademarks, trade names, logos, patents, patent applications, web domains related to the Content and Products, inventive steps and ideas, trade secrets, copyrights, whether registered or not, in all jurisdictions where the Content and Products are available for the Users.
+All Content available on the Website is the sole and exclusive property of Blazesoft Ltd. Any applicable third-party content is duly licensed to Blazesoft Ltd. Blazesoft Ltd. owns the sole title, sole ownership and legal interest in the trademarks, trade names, logos, patents, patent applications, web domains related to the Content, inventive steps and ideas, trade secrets, copyrights, whether registered or not, in all jurisdictions where the Content are available for the Users.
 We expect that all of our Users, Affiliates and third parties will respect our intellectual property rights.
-All Content and Products used by us in delivering our Website to you including, but not limited to, the software, images, graphics, photographs, animations, videos, music, audio and text are owned by us.
+All Content used by us in delivering our Website to you including, but not limited to, the software, images, graphics, photographs, animations, videos, music, audio and text are owned by us.
 Your use of our Website does not grant you any rights in our copyright materials.
 You do not have permission to use any of our copyright materials without our express written permission.
-Third Parties
-Our Website may enable or require access to other third party materials, games, services or websites (“Third Party Materials”) , including, but not limited to, social media platforms such as Facebook, Twitter, Reddit or Instagram.
+Third Parties Materials and User Experience
+Our Website or its Content may enable or require access to other third party materials, Games, Games rules or Games related information, services or websites (“Third Party Materials”), including, but not limited to, social media platforms such as Facebook, Twitter, Reddit or Instagram.
 By using our Website, you agree to all Third Party Materials, which may include terms & conditions and privacy policies set out by Third Parties.
 Under no circumstances are we responsible for (i) any issues you have with Third Party Materials, including Third Party Games or (ii) any actions you take on Third Party websites. If you have an issue with a specific game, we strongly recommend contacting the provider of the Third Party Games directly to resolve your issue.   
 Indemnification
@@ -184,16 +240,20 @@ Any payments made to your account;
 Any decision made by you to opt-out, Self-Exclude, or otherwise pause or close your Account;
 Any withdrawals made from your Account; and
 Any Prize redemption including Prize redemption requests.
+
 Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WHATEVER WILL WE OR OUR AFFILIATES, OR OUR RESPECTIVE PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS, SUBCONTRACTORS AND SUPPLIERS, BE RESPONSIBLE OR LIABLE TO YOU OR TO ANY OTHER ENTITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, UNDER ANY LEGAL THEORY, WHETHER CONTRACT, TORT OR OTHERWISE, FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING ANY LOST PROFITS AND LOST BUSINESS OPPORTUNITIES, BUSINESS INTERRUPTION, LOST REVENUE, INCOME, GOODWILL, USE OF DATA OR OTHER INTANGIBLE LOSSES, IN EACH CASE THAT RESULT FROM OR RELATE IN ANY MANNER TO YOUR PARTICIPATION OR ANY OTHER ACT OR OMISSION BY US.
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL WE, OUR AFFILIATES, AND OUR RESPECTIVE PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS, SUBCONTRACTORS OR SUPPLIERS, BE LIABLE TO YOU FOR MORE THAN THE AMOUNT YOU HAVE PAID US IN THE THIRTY (30) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM. YOU ACKNOWLEDGE AND AGREE THAT IF YOU HAVE NOT PAID US ANY AMOUNTS IN THE THIRTY (30) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM, YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH US IS TO STOP USING THE PLATFORM AND TO CLOSE YOUR CUSTOMER ACCOUNT.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL WE, OUR AFFILIATES, AND OUR RESPECTIVE PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS, SUBCONTRACTORS OR SUPPLIERS, BE LIABLE TO YOU FOR MORE THAN THE AMOUNT YOU HAVE PAID US IN THE THIRTY (30) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM. YOU ACKNOWLEDGE AND AGREE THAT IF YOU HAVE NOT PAID US ANY AMOUNTS IN THE THIRTY (30) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM, YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH US IS TO STOP USING THE WEBSITE AND ITS CONTENT AND TO CLOSE YOUR CUSTOMER ACCOUNT.
 WE SHALL NOT BE LIABLE FOR ANY ATTEMPTS BY YOU TO USE OUR WEBSITE BY METHODS, MEANS OR WAYS NOT INTENDED BY US. WE ARE NOT REQUIRED TO PROVIDE BACK-UP NETWORKS AND/OR SYSTEMS.
 NOTHING IN THESE AGREEMENTS WILL OPERATE SO AS TO EXCLUDE ANY LIABILITY WE MAY HAVE IN RESPECT OF EITHER FRAUD, DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE
 IF ANY PART OF THIS AGREEMENT IS DEEMED UNLAWFUL, VOID OR FOR ANY REASON UNENFORCEABLE, THEN THAT PART SHALL BE DEEMED SEVERABLE FROM THE REST OF THE AGREEMENTS AND SHALL NOT AFFECT THE VALIDITY AND ENFORCEABILITY OF THE REMAINING PROVISIONS.
+SECTIONS 16, 17 AND 18.13 SURVIVE THE TERMINATION OF THESE TERMS AND CONDITIONS FOR ANY REASON.
 General
 We may amend, alter, delete, or add to this Agreement at any time without notice to you.
 Any changes made to this Agreement shall take effect immediately upon their publishing to the Website and your continued access or use of the Website. You can check the “Date Updated” date at the top of these Terms of Use to determine the date of the last revision.
 You agree to review this Agreement regularly to stay current with changes that have been made.
+All correspondence between you and us may be recorded.
+The Terms of Use prevail over any communication via email or chat.
 Whole Agreement
 
 Unless otherwise indicated, this Agreement supersedes all prior oral or written Agreements, arrangements or understandings between us. You acknowledge that you are not relying on any representation, agreement, term or condition that is not set out in this Agreement or the Documentation.
@@ -208,10 +268,11 @@ Explanation of Terms and Conditions
 Should you need any advice regarding any part of our Service, please contact us directly at support@zulacasino.com.
 Payment for Service
 
-A substantial portion of the payments made by you to us goes towards providing our entertainment services, which includes running our servers, developing and running our platform, and covering our operating costs such as customer support, rent, payroll, maintenance and other overhead costs.
+A substantial portion of the payments made by you to us goes towards providing our entertainment services, which includes running our servers, developing and running our Website, and covering our operating costs such as customer support, rent, payroll, maintenance and other overhead costs.
 Marketing Communications
-Upon providing your consent when you sign up for an Account, Zula Casino may send you electronic communications by way of email, post, SMS and/or telephone notification containing product and/or service offerings, promotions, invitations and/or special offers.
+Upon providing your consent when you sign up for an Account, Zula Casino may send you electronic communications by way of email, post, SMS and/or telephone notification containing Content and/or service offerings, promotions, invitations and/or special offers.
 You may stop receiving electronic communications from Zula Casino at any time by contacting Customer Support via email at support@zulacasino.com or clicking on the unsubscribe link on such communications.
+You are solely responsible for any state, local or federal taxes which may apply to Your use of the Service.
 Digital Millennium Copyright Act
 Notice and procedure for making claims of copyright infringement
 
@@ -233,7 +294,9 @@ To be valid, a Notice must be in writing and must follow the instructions above.
 
 Change Log
 
-January 10 2024: We added the State of Michigan under Section 1.1.6 “Excluded Territory”
+March 7 2024: We have updated our definitions under Section 1 “Definitions”, added Section 4 “Changes to the Website and Content”; added Section 8.1.13 under Prohibited Activities; added Section 17.6 survival of section language; and revised Section 12 Arbitration and Class Action waiver to include Arbitration Agreement.
+
+January 10 2024: We added the State of Michigan under Section 1.1.6 “Excluded Territory”.
 
 November 30 2023: We updated the Playthrough requirements and prior notification related to forfeiture of Sweeps Coins due to inactivity.
 
@@ -245,7 +308,7 @@ A minimum age of US Citizen age for US residents is required.
 DMCA.com Protection Status
 team
 Responsible Social Gameplay
-COPYRIGHT © SCPS LLC. 2023.
+COPYRIGHT © SCPS LLC. 2024.
 
 The sweepstakes promotions offered are operated by SCPS LLC.
 The registered address for SCPS LLC. is 850 New Burton Road, Suite 201, Dover, DE 19904
