@@ -1,6 +1,6 @@
 Chumba Casino Terms and Conditions
-VERSION: 8.0
-DATE OF LAST UPDATE: January 23, 2024
+VERSION: 8.1
+DATE OF LAST UPDATE: March 11, 2024
 These Terms and Conditions form a binding legal agreement between you and us and apply to your use of any of our
 Games or our Platform in any way, through any electronic device (web, mobile, tablet or any other device).
 PLEASE NOTE THAT THESE TERMS AND CONDITIONS INCLUDE A PROVISION WAIVING THE RIGHT TO
@@ -310,8 +310,8 @@ redemption threshold of SC100 for Prize redemptions.
 $5,000 and any Prize with a value in excess of USD $5,000 will be reduced to a maximum value of USD
 $5,000.
 8.4. We reserve the right, in our sole discretion, to limit the value of your Prize redemptions to:
-a. USD$10,000 per day; or
-b. any other amount over any time that we consider necessary to satisfy our regulatory obligations or the
+(a) USD$10,000 per day; or
+(b) any other amount over any time that we consider necessary to satisfy our regulatory obligations or the
 requirements of our partners and suppliers.
 Your Responsibility for Prize Redemptions and Accuracy of Details
 8.5. When you choose to redeem Prizes for gift cards pursuant to clause 8.1(a), it is your sole responsibility to
@@ -367,9 +367,9 @@ require additional verification at the time of redemption.
 security and fraud checks and may also be paid in more than one lump sum. This may add up to 7 days to the
 normal processing time but is dependent on the circumstances of each individual case.
 8.19. Without limiting clause 8.2, you can request to redeem a Prize of any value; however, we reserve the right to:
-a. reject a Prize redemption request on the basis that it exceeds the limits referred to in clause 8.3 or 8.4;
+(a) reject a Prize redemption request on the basis that it exceeds the limits referred to in clause 8.3 or 8.4;
 or
-b. allocate or pay Prizes in smaller increments over a number of days until all of the Prize has been
+(b) allocate or pay Prizes in smaller increments over a number of days until all of the Prize has been
 allocated or paid.
 Payment Administration Agent
 8.20. You acknowledge and agree that we may in our sole discretion, from time to time, appoint one or more
